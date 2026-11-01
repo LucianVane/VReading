@@ -1,0 +1,6328 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "\nSentence: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\n原句: %@"
+          }
+        }
+      }
+    },
+    "\nYou are answering inside a small lookup panel: keep it under 60 words.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\n当前在查词面板中, 请控制在80字以内。"
+          }
+        }
+      }
+    },
+    "  %@": {
+      "shouldTranslate": false
+    },
+    " (built-in)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " (内置)"
+          }
+        }
+      }
+    },
+    "%@ (%@)": {
+      "shouldTranslate": false
+    },
+    "%@ (%lld)": {
+      "shouldTranslate": false
+    },
+    "%@ - read novels and magazines in a foreign language with tap-to-look-up, MDict dictionaries, translation, notes and vocabulary review. Give it a try!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ - 让你轻松读懂英文小说、外刊杂志, 支持单击查词、mdict字典、翻译、做笔记、背单词等功能! 你也快来试试吧~"
+          }
+        }
+      }
+    },
+    "%@ Configuration": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@引擎配置"
+          }
+        }
+      }
+    },
+    "%@ configuration cleared": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已清除%@配置"
+          }
+        }
+      }
+    },
+    "%@ configured": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已成功配置%@"
+          }
+        }
+      }
+    },
+    "%@ does not provide any books. The third-party sources listed here are publicly available on the internet and their availability is not guaranteed. You can add your own OPDS, WebDAV or web sources.\n1. Tap to browse.  2. Long-press to make a source open by default in the Library.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 不包含任何图书源, App中的第三方图书源均收集于网络，本App不保证第三方图书源的可用性。用户可以自定义图书源, 支持OPDS、WebDav、网页图书源。\n1. 单击在线浏览;  2. 长按可将图书源设置为书库默认打开"
+          }
+        }
+      }
+    },
+    "%@ does not provide any books. Third-party sources are publicly available on the internet. OPDS, WebDAV and web sources are supported.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 不包含任何图书源, 第三方图书源均收集于网络。支持 OPDS、WebDav、网页图书源。"
+          }
+        }
+      }
+    },
+    "%@ now opens by default in the Library": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已设置%@为书库默认打开"
+          }
+        }
+      }
+    },
+    "%@ Vocabulary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@生词本"
+          }
+        }
+      }
+    },
+    "%@ vocabulary is empty": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@生词本中还没有单词~"
+          }
+        }
+      }
+    },
+    "%@ Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@词汇"
+          }
+        }
+      }
+    },
+    "%@ words · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@词 · %@"
+          }
+        }
+      }
+    },
+    "%@ · %@": {
+      "shouldTranslate": false
+    },
+    "%@ · %lld books": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · %lld本"
+          }
+        }
+      }
+    },
+    "%@_MindMap.png": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@_思维导图.png"
+          }
+        }
+      }
+    },
+    "%@_Notes_%@.txt": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "《%@》阅读笔记_%@.txt"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "shouldTranslate": false
+    },
+    "%lld / %lld": {
+      "shouldTranslate": false
+    },
+    "%lld books": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld本"
+          }
+        }
+      }
+    },
+    "%lld days": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld天"
+          }
+        }
+      }
+    },
+    "%lld days ago": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld天前"
+          }
+        }
+      }
+    },
+    "%lld episodes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 集"
+          }
+        }
+      }
+    },
+    "%lld h %lld min": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld小时%lld分钟"
+          }
+        }
+      }
+    },
+    "%lld h ago": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld小时前"
+          }
+        }
+      }
+    },
+    "%lld min": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld分钟"
+          }
+        }
+      }
+    },
+    "%lld min ago": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld分钟前"
+          }
+        }
+      }
+    },
+    "%lld of %lld episodes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "找到 %lld / %lld 集"
+          }
+        }
+      }
+    },
+    "%lld points": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 要点"
+          }
+        }
+      }
+    },
+    "%lld sections · %lld points": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 个部分 · %lld 个要点"
+          }
+        }
+      }
+    },
+    "%lld words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共 %lld 个单词"
+          }
+        }
+      }
+    },
+    "%lld. %@": {
+      "shouldTranslate": false
+    },
+    "%lld/%lld": {
+      "shouldTranslate": false
+    },
+    "0 min": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "0分钟"
+          }
+        }
+      }
+    },
+    "21st Century English–Chinese (built-in)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "21世纪大英汉词典 (内置)"
+          }
+        }
+      }
+    },
+    "8,000+ words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "8000 词以上"
+          }
+        }
+      }
+    },
+    "< 1 min": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不足1分钟"
+          }
+        }
+      }
+    },
+    "[%@]": {
+      "shouldTranslate": false
+    },
+    "[Definition]": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[单词释义]"
+          }
+        }
+      }
+    },
+    "[Definition] %@\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[单词释义] %@\n"
+          }
+        }
+      }
+    },
+    "[Sentence]": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[原文句子]"
+          }
+        }
+      }
+    },
+    "[Sentence] ": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[原文句子] "
+          }
+        }
+      }
+    },
+    "[Sentence] %@\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[原文句子] %@\n"
+          }
+        }
+      }
+    },
+    "A book's language can be changed at the top right of its Vocabulary Profile. Level highlighting supports English, French and Spanish.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书籍语言可在 词汇透析 页面右上角修改, 支持英语、法语、西班牙语的分级词汇高亮。"
+          }
+        }
+      }
+    },
+    "A group with this name already exists": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书分组已存在, 请重新修改分组名~"
+          }
+        }
+      }
+    },
+    "A TED talk every day": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "每天一个 TED 演讲"
+          }
+        }
+      }
+    },
+    "A → Z": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按字母升序"
+          }
+        }
+      }
+    },
+    "A1/A2 beginner, B1/B2 intermediate (IELTS 5.5–6.5 ≈ B2), C1/C2 advanced (IELTS 7+). Recommended books have high vocabulary coverage at your level, so they won't feel too hard.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A1/A2 入门, B1/B2 中级 (四六级约 B1-B2, 雅思 5.5-6.5 约 B2), C1/C2 高级 (雅思 7 分以上)。推荐的书在你的水平下词汇覆盖率较高, 读起来不会太吃力。"
+          }
+        }
+      }
+    },
+    "A1/A2 beginner, B1/B2 intermediate (TCF/TEF for immigration usually requires about B2), C1/C2 advanced. Recommended books have high vocabulary coverage at your level; 95%+ coverage reads fluently.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A1/A2 入门, B1/B2 中级 (TCF/TEF 移民一般要求 B2 左右), C1/C2 高级。推荐的书在你的水平下词汇覆盖率较高, 读起来不会太吃力; 覆盖率 95% 以上较为流畅。"
+          }
+        }
+      }
+    },
+    "Accent": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发音口音"
+          }
+        }
+      }
+    },
+    "Add": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加"
+          }
+        }
+      }
+    },
+    "Add Book Source": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加图书源"
+          }
+        }
+      }
+    },
+    "Add Note": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加笔记"
+          }
+        }
+      }
+    },
+    "Add Podcast": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加播客"
+          }
+        }
+      }
+    },
+    "Add to Tab Bar": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加到应用底部Tab"
+          }
+        }
+      }
+    },
+    "Add to Vocabulary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加到生词本"
+          }
+        }
+      }
+    },
+    "Add Translation Engine": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加翻译引擎"
+          }
+        }
+      }
+    },
+    "Add Website": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加常用英文网站"
+          }
+        }
+      }
+    },
+    "Add websites you read often. Open one to tap words to look them up and translate sentences.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将您常用的网页添加到列表, 点击打开网页之后即可单击查词、翻译句子!"
+          }
+        }
+      }
+    },
+    "Added OPDS source: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "成功添加OPDS图书源: %@"
+          }
+        }
+      }
+    },
+    "Added to vocabulary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已添加到生词本中"
+          }
+        }
+      }
+    },
+    "Added “%@” (%lld episodes)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已添加「%@」, 共 %lld 集"
+          }
+        }
+      }
+    },
+    "Advanced C1–C2 · Native": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高级 C1-C2 · 母语节目"
+          }
+        }
+      }
+    },
+    "Agree": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "同意"
+          }
+        }
+      }
+    },
+    "AI Configuration": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI配置"
+          }
+        }
+      }
+    },
+    "AI Explain": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI学词"
+          }
+        }
+      }
+    },
+    "AI is reading the book and extracting key points. Long books take 1–2 minutes.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 正在阅读全书并提炼要点, 长篇书籍约需 1-2 分钟"
+          }
+        }
+      }
+    },
+    "AI Mind Map": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 思维导图"
+          }
+        }
+      }
+    },
+    "AI Quick Prompts": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI快捷指令"
+          }
+        }
+      }
+    },
+    "AI reads the whole book and organizes its key plot points, ideas and characters into a mind map. Every point links to its place in the text; tap to jump there.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 通读全书, 提炼核心情节、观点和人物, 整理成思维导图。每个要点都对应原文位置, 点击即可跳转阅读。"
+          }
+        }
+      }
+    },
+    "AI request failed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI请求失败"
+          }
+        }
+      }
+    },
+    "AI request failed (%lld): %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI请求失败 (%lld): %@"
+          }
+        }
+      }
+    },
+    "AI Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI设置"
+          }
+        }
+      }
+    },
+    "AI settings reset to defaults": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI配置已恢复到默认"
+          }
+        }
+      }
+    },
+    "AI settings saved": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI设置已保存"
+          }
+        }
+      }
+    },
+    "All %@ Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部%@生词"
+          }
+        }
+      }
+    },
+    "All Books %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部书籍 %lld"
+          }
+        }
+      }
+    },
+    "All done!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "学习完毕!"
+          }
+        }
+      }
+    },
+    "All Local Dictionaries": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部本地词典"
+          }
+        }
+      }
+    },
+    "All Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部生词"
+          }
+        }
+      }
+    },
+    "All Words (%lld)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "所有生词%lld词"
+          }
+        }
+      }
+    },
+    "Allow VReading to use Speech Recognition in iOS Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在系统设置中允许 VReading 使用语音识别"
+          }
+        }
+      }
+    },
+    "American English and culture; one of the most popular learning podcasts": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "美式英语口语与文化, 最受欢迎的学习播客之一"
+          }
+        }
+      }
+    },
+    "Analyzing the book %lld/%lld...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在分析全书内容 %lld/%lld..."
+          }
+        }
+      }
+    },
+    "Analyzing vocabulary...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词汇分析中..."
+          }
+        }
+      }
+    },
+    "Anki package with words, sentences and source books.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anki专用格式, 包含单词、原文句子、来源书籍."
+          }
+        }
+      }
+    },
+    "Anki template missing": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "anki 模板缺失"
+          }
+        }
+      }
+    },
+    "Any": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用"
+          }
+        }
+      }
+    },
+    "Any Language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用 (所有语言)"
+          }
+        }
+      }
+    },
+    "Any provider with an OpenAI-compatible chat completions API can be configured here. Make sure the service is reachable from your network.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "其他大模型平台只要API接口兼容ChatGPT chat completions, 均可在这里配置! 如果要访问ChatGPT等国外AI大模型, 请确保您能访问这些网站。"
+          }
+        }
+      }
+    },
+    "API Key": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请输入 API Key"
+          }
+        }
+      }
+    },
+    "APKG": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "apkg格式"
+          }
+        }
+      }
+    },
+    "App ID": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用ID"
+          }
+        }
+      }
+    },
+    "App Language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "界面语言"
+          }
+        }
+      }
+    },
+    "App Secret": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用秘钥"
+          }
+        }
+      }
+    },
+    "Ask a question…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入你的问题~"
+          }
+        }
+      }
+    },
+    "Authentic French expressions and learning tips": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "地道法语表达与学习方法"
+          }
+        }
+      }
+    },
+    "Auto-Pronounce in Review": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "背单词时自动发音"
+          }
+        }
+      }
+    },
+    "Auto-Pronounce on Lookup": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查词时自动发音"
+          }
+        }
+      }
+    },
+    "Azure translation failed: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "微软Azure翻译失败: %@"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "返回"
+          }
+        }
+      }
+    },
+    "Back to Current": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回到当前"
+          }
+        }
+      }
+    },
+    "Background": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "背景"
+          }
+        }
+      }
+    },
+    "Baidu Translate": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "百度翻译"
+          }
+        }
+      }
+    },
+    "Baidu Translate (1M free characters per month after verification): see https://fanyi-api.baidu.com/doc/21": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "百度翻译(个人认证后每月100万字符免费额度)请参考文档 https://fanyi-api.baidu.com/doc/21 。"
+          }
+        }
+      }
+    },
+    "Baidu Translate: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "百度翻译: %@"
+          }
+        }
+      }
+    },
+    "BBC world news": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BBC 全球新闻"
+          }
+        }
+      }
+    },
+    "BBC: everyday conversations and idioms": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BBC 地道口语表达与日常对话"
+          }
+        }
+      }
+    },
+    "BBC: two hosts discuss a topic and its vocabulary in 6 minutes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BBC 每集 6 分钟, 两位主持人聊一个话题并讲解词汇"
+          }
+        }
+      }
+    },
+    "Beginner A1–A2": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "入门 A1-A2"
+          }
+        }
+      }
+    },
+    "Bing Dictionary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "必应词典"
+          }
+        }
+      }
+    },
+    "Block External Links in Books": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读书籍时禁止跳转到外部链接"
+          }
+        }
+      }
+    },
+    "Book Details": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书籍详情"
+          }
+        }
+      }
+    },
+    "Book imported": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书籍导入成功"
+          }
+        }
+      }
+    },
+    "Book Language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "语言设置"
+          }
+        }
+      }
+    },
+    "Book Sources": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第三方图书源"
+          }
+        }
+      }
+    },
+    "Book's Language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "原书语言"
+          }
+        }
+      }
+    },
+    "Bookmark added": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已添加书签"
+          }
+        }
+      }
+    },
+    "Bookmarks": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书签"
+          }
+        }
+      }
+    },
+    "Bookshelf": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书架"
+          }
+        }
+      }
+    },
+    "Briefly explain the meaning and usage of this phrase.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "简要解释这个短语的意思和用法"
+          }
+        }
+      }
+    },
+    "Briefly explain what this word means in the sentence, with phonetics, part of speech and a short example.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "简要说明这个单词在原句中的意思, 附音标、词性和一个短例句"
+          }
+        }
+      }
+    },
+    "Briefly translate this sentence and point out the key grammar.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "简要翻译这个句子并点出关键语法"
+          }
+        }
+      }
+    },
+    "Brightness": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "亮度"
+          }
+        }
+      }
+    },
+    "British English; long, humorous conversations": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英式英语, 幽默的长篇聊天节目"
+          }
+        }
+      }
+    },
+    "Browse Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "浏览模式"
+          }
+        }
+      }
+    },
+    "Browse Online": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在线浏览"
+          }
+        }
+      }
+    },
+    "Building the mind map...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在生成思维导图结构..."
+          }
+        }
+      }
+    },
+    "Built-in": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内置"
+          }
+        }
+      }
+    },
+    "Built-in Dictionary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内置词典"
+          }
+        }
+      }
+    },
+    "Business English skills for the workplace": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "职场商务英语技能"
+          }
+        }
+      }
+    },
+    "Caiyun Xiaoyi": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "彩云小译"
+          }
+        }
+      }
+    },
+    "Cambridge": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "剑桥"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "Cannot open database %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法打开数据库 %@"
+          }
+        }
+      }
+    },
+    "CET-4": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "四级"
+          }
+        }
+      }
+    },
+    "CET-6": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "六级"
+          }
+        }
+      }
+    },
+    "Chapter %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第%lld章"
+          }
+        }
+      }
+    },
+    "Check a level to highlight its words while reading. Tap the red button at the top right to change the book's language (French and Spanish are supported).": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "勾选对应级别, 在阅读时该级别词汇则会高亮显示; 点击右上角红色按钮可修改本书的语言, 支持法语、西班牙语。"
+          }
+        }
+      }
+    },
+    "Chinese": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中文"
+          }
+        }
+      }
+    },
+    "Choosing a Level": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如何选择水平?"
+          }
+        }
+      }
+    },
+    "Classic short stories read slowly by VOA": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "美国之音慢速朗读的经典短篇小说"
+          }
+        }
+      }
+    },
+    "Clear Configuration": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除配置"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
+          }
+        }
+      }
+    },
+    "Cloud Drive": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择网盘"
+          }
+        }
+      }
+    },
+    "Collapse All": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部收起"
+          }
+        }
+      }
+    },
+    "Collins": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "柯林斯"
+          }
+        }
+      }
+    },
+    "Configuration failed. Check that your key is correct.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配置文本翻译失败, 请检查您的key是否正确"
+          }
+        }
+      }
+    },
+    "Configuration failed: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配置文本翻译失败: %@"
+          }
+        }
+      }
+    },
+    "Configure an API key for an OpenAI-compatible model (ChatGPT, DeepSeek, …) first.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先配置 ChatGPT / DeepSeek 等兼容 chat completions 接口的大模型 API Key"
+          }
+        }
+      }
+    },
+    "Configured": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已配置"
+          }
+        }
+      }
+    },
+    "Configured (by priority)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已配置 (按优先级)"
+          }
+        }
+      }
+    },
+    "Connected to WebDAV server": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebDav服务器连接成功!"
+          }
+        }
+      }
+    },
+    "Contents": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目录"
+          }
+        }
+      }
+    },
+    "Context Messages: %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上下文消息条数: %lld"
+          }
+        }
+      }
+    },
+    "Continue Reading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续阅读"
+          }
+        }
+      }
+    },
+    "Copied": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已拷贝"
+          }
+        }
+      }
+    },
+    "Copy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拷贝"
+          }
+        }
+      }
+    },
+    "Couldn't parse OPDS. Make sure the source is an OPDS catalog.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法解析OPDS, 请确保您输入的图书源类型为OPDS~"
+          }
+        }
+      }
+    },
+    "Couldn't parse the podcast feed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法解析播客订阅"
+          }
+        }
+      }
+    },
+    "Cover": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "覆盖"
+          }
+        }
+      }
+    },
+    "Coverage %lld%%": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "覆盖率 %lld%%"
+          }
+        }
+      }
+    },
+    "Create a \"Text Translation\" app with API access in Youdao AI Cloud and enter its App ID and App Secret: https://ai.youdao.com/": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注册有道智云账户之后创建一个\"接入方式\"为API的\"文本翻译\"应用, 填写对应的应用ID和应用秘钥即可。官网 https://ai.youdao.com/"
+          }
+        }
+      }
+    },
+    "Create a DeepSeek API key at https://platform.deepseek.com/": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注册deepseek账户之后申请创建api key即可。官方文档 https://platform.deepseek.com/ 。"
+          }
+        }
+      }
+    },
+    "Create a NiuTrans API key (200,000 free characters per day): https://niutrans.com/dev-page": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注册小牛翻译账户并且获取到Api key (每日20万字符免费额度), 官方文档 https://niutrans.com/dev-page 。"
+          }
+        }
+      }
+    },
+    "Create an OpenAI API key at https://platform.openai.com/ (other OpenAI-compatible models can be configured in AI Settings).": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注册openai账户之后申请api key, 官方文档 https://platform.openai.com/ 。(api与ChatGPT兼容的第三方大模型可在 AI设置 中配置)"
+          }
+        }
+      }
+    },
+    "Curl": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仿真"
+          }
+        }
+      }
+    },
+    "Current Dictionaries": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前词典"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期"
+          }
+        }
+      }
+    },
+    "Date (Newest)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按日期降序"
+          }
+        }
+      }
+    },
+    "Date (Oldest)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按日期升序"
+          }
+        }
+      }
+    },
+    "Date Added": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入时间"
+          }
+        }
+      }
+    },
+    "Day": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日间"
+          }
+        }
+      }
+    },
+    "Default": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认"
+          }
+        }
+      }
+    },
+    "Definition": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单词释义"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除"
+          }
+        }
+      }
+    },
+    "Delete (%lld)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "批量删除 (%lld)"
+          }
+        }
+      }
+    },
+    "Delete Book": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除书籍"
+          }
+        }
+      }
+    },
+    "Delete Dictionary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除词典"
+          }
+        }
+      }
+    },
+    "Delete Group": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除分组"
+          }
+        }
+      }
+    },
+    "Delete Site": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除站点"
+          }
+        }
+      }
+    },
+    "Delete Source": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除图书源"
+          }
+        }
+      }
+    },
+    "Delete the %lld selected books?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "确定要删除选中的 %lld 本书?"
+          }
+        }
+      }
+    },
+    "Delete the selected words?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您确定要删除选中的单词?"
+          }
+        }
+      }
+    },
+    "Delete “%@” and its mdd / css files?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "确定删除「%@」及其 mdd / css 文件?"
+          }
+        }
+      }
+    },
+    "Delete “%@”? Its file, notes and bookmarks will also be deleted.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "确定要删除《%@》? 书籍文件、笔记和书签将一并删除。"
+          }
+        }
+      }
+    },
+    "Deselect All": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消全选"
+          }
+        }
+      }
+    },
+    "Dictionaries": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词典管理"
+          }
+        }
+      }
+    },
+    "Dictionary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字典"
+          }
+        }
+      }
+    },
+    "Dictionary imported": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词典导入成功"
+          }
+        }
+      }
+    },
+    "Disable Level Highlighting": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭分级单词高亮"
+          }
+        }
+      }
+    },
+    "Disable Tap to Look Up": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭点击单词查词功能"
+          }
+        }
+      }
+    },
+    "Discover": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐"
+          }
+        }
+      }
+    },
+    "Don't Know": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不认识"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "Download": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载"
+          }
+        }
+      }
+    },
+    "Download failed: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载失败: %@"
+          }
+        }
+      }
+    },
+    "Download Sample": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载试读"
+          }
+        }
+      }
+    },
+    "Downloaded": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已下载"
+          }
+        }
+      }
+    },
+    "Downloading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载中"
+          }
+        }
+      }
+    },
+    "Downloading audio to generate subtitles %lld%%": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载音频用于生成字幕 %lld%%"
+          }
+        }
+      }
+    },
+    "Downloading audio to generate subtitles...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载音频用于生成字幕..."
+          }
+        }
+      }
+    },
+    "Drag the handles to reorder; lookups follow this order. Swipe left to disable.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拖动右侧把手调整顺序, 查词时按此顺序显示; 左滑可停用。"
+          }
+        }
+      }
+    },
+    "Due Today": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今日待学"
+          }
+        }
+      }
+    },
+    "E-ink Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启墨水屏模式"
+          }
+        }
+      }
+    },
+    "E-ink mode uses black text on white and turns pages without animation.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启墨水屏模式之后阅读页面将采用白底黑色、翻页无动画"
+          }
+        }
+      }
+    },
+    "Economics explained in an easy way": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻松讲解经济话题"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑"
+          }
+        }
+      }
+    },
+    "Edit Note": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑笔记"
+          }
+        }
+      }
+    },
+    "Enabled (%lld)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已启用 %lld 部"
+          }
+        }
+      }
+    },
+    "Encrypted dictionaries that require a registration code are not supported": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不支持需要注册码的加密词典"
+          }
+        }
+      }
+    },
+    "English": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英语"
+          }
+        }
+      }
+    },
+    "English stories graded by difficulty": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按难度分级讲述的英语故事"
+          }
+        }
+      }
+    },
+    "Enter a URL starting with http:// or https://": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注意: 请输入以http:// 或者 https://开头的图书源链接~"
+          }
+        }
+      }
+    },
+    "Enter a username and password in the source settings to access it": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在图书源设置中输入用户名和密码授权访问图书源"
+          }
+        }
+      }
+    },
+    "Enter a username and password to access this source": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请输入用户名和密码授权访问图书源"
+          }
+        }
+      }
+    },
+    "Enter this full address in your computer's browser": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在电脑浏览器地址栏完整输入"
+          }
+        }
+      }
+    },
+    "Esdict": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "西语助手"
+          }
+        }
+      }
+    },
+    "Everyday stories for intermediate learners": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中级法语生活故事"
+          }
+        }
+      }
+    },
+    "Everyday topics in natural English for listening and speaking practice": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用自然的英语聊日常, 练习听力和口语"
+          }
+        }
+      }
+    },
+    "example": {
+      "shouldTranslate": false
+    },
+    "Expand All": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部展开"
+          }
+        }
+      }
+    },
+    "Export": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即导出"
+          }
+        }
+      }
+    },
+    "Export failed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出失败"
+          }
+        }
+      }
+    },
+    "Export Format": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出格式选择"
+          }
+        }
+      }
+    },
+    "Export Image": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出图片"
+          }
+        }
+      }
+    },
+    "Failed to add source: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加图书源失败: %@"
+          }
+        }
+      }
+    },
+    "Failed to add: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加失败: %@"
+          }
+        }
+      }
+    },
+    "Failed to decompress dictionary index": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词典索引解压失败"
+          }
+        }
+      }
+    },
+    "Failed to decompress dictionary index block": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词典索引块解压失败"
+          }
+        }
+      }
+    },
+    "Failed to generate subtitles: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字幕生成失败: %@"
+          }
+        }
+      }
+    },
+    "Failed to import %@: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@导入失败~ %@"
+          }
+        }
+      }
+    },
+    "Failed to load book: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书加载异常: %@"
+          }
+        }
+      }
+    },
+    "Failed to load source\n%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "获取图书源失败\n%@"
+          }
+        }
+      }
+    },
+    "Failed to load: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加载失败: %@"
+          }
+        }
+      }
+    },
+    "Failed to start the HTTP server": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "启动HTTP服务失败"
+          }
+        }
+      }
+    },
+    "Failed to start Wi-Fi transfer": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "启动WiFi传输失败~"
+          }
+        }
+      }
+    },
+    "Finished": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已读完"
+          }
+        }
+      }
+    },
+    "Follow System": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跟随系统"
+          }
+        }
+      }
+    },
+    "Font": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字体"
+          }
+        }
+      }
+    },
+    "Font Size": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字号"
+          }
+        }
+      }
+    },
+    "Font size %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字号 %lld"
+          }
+        }
+      }
+    },
+    "For long episodes, the audio is downloaded and transcribed on device the first time. You can start listening; subtitles will appear progressively.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "首次播放较长的节目时, 需要下载音频并在本机识别, 可以先收听, 字幕会逐步出现"
+          }
+        }
+      }
+    },
+    "For You": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "适合你"
+          }
+        }
+      }
+    },
+    "Frdic": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法语助手"
+          }
+        }
+      }
+    },
+    "French": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法语"
+          }
+        }
+      }
+    },
+    "French–Chinese (built-in)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法汉词典 (内置)"
+          }
+        }
+      }
+    },
+    "French–English (built-in)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法英词典 (内置)"
+          }
+        }
+      }
+    },
+    "General-knowledge chats, with transcripts": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "百科知识闲聊, 节目自带字幕"
+          }
+        }
+      }
+    },
+    "Generate Mind Map in %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生成%@思维导图"
+          }
+        }
+      }
+    },
+    "Generating, please wait...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生成中,请稍候..."
+          }
+        }
+      }
+    },
+    "Generation failed: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生成失败: %@"
+          }
+        }
+      }
+    },
+    "German": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "德语"
+          }
+        }
+      }
+    },
+    "Getting address...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在获取地址..."
+          }
+        }
+      }
+    },
+    "Go to Text": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跳转阅读"
+          }
+        }
+      }
+    },
+    "Google Translate": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "谷歌翻译"
+          }
+        }
+      }
+    },
+    "Google Translate returned an unexpected response": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "谷歌翻译返回异常"
+          }
+        }
+      }
+    },
+    "Got It": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我知道啦"
+          }
+        }
+      }
+    },
+    "Graded Reading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分级推荐"
+          }
+        }
+      }
+    },
+    "Graded Reading List": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分级书单"
+          }
+        }
+      }
+    },
+    "Group created": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书分组创建成功!"
+          }
+        }
+      }
+    },
+    "Group name": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请输入分组名~"
+          }
+        }
+      }
+    },
+    "Group renamed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已修改分组名!"
+          }
+        }
+      }
+    },
+    "Guide & FAQ": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用指南 & 常见问题"
+          }
+        }
+      }
+    },
+    "High School": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高中"
+          }
+        }
+      }
+    },
+    "Highlight": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "划线"
+          }
+        }
+      }
+    },
+    "Highlight Vocabulary Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高亮生词本中的单词"
+          }
+        }
+      }
+    },
+    "Host, e.g. https://api.openai.com": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请求域名 例如 https://api.openai.com"
+          }
+        }
+      }
+    },
+    "https://<your-id>.teracloud.jp/dav/": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "https://<你的ID>.teracloud.jp/dav/"
+          }
+        }
+      }
+    },
+    "Hujiang Japanese": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "沪江日语"
+          }
+        }
+      }
+    },
+    "Icon URL (optional)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网站图标链接 (可选)"
+          }
+        }
+      }
+    },
+    "Import Books": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入本地书籍"
+          }
+        }
+      }
+    },
+    "Import Dictionary (mdx / mdd / css)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入本地词典 (mdx / mdd / css)"
+          }
+        }
+      }
+    },
+    "Imported %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入于 %@"
+          }
+        }
+      }
+    },
+    "In Vocabulary (tap to remove)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已添加到生词本 (点击移除)"
+          }
+        }
+      }
+    },
+    "InfiniCLOUD (20 GB free): enable Apps Connection in My Page to see the WebDAV URL, username and app password, then replace <your-id> in the URL.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "InfiniCLOUD (免费20GB): 在 My Page → Apps Connection 中开启并查看 WebDAV 地址、用户名和应用密码, 把地址中的 <你的ID> 替换掉。"
+          }
+        }
+      }
+    },
+    "Intermediate B1–B2": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中级 B1-B2"
+          }
+        }
+      }
+    },
+    "Invalid audio URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无效的音频地址"
+          }
+        }
+      }
+    },
+    "Invalid dictionary file": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词典文件无效"
+          }
+        }
+      }
+    },
+    "Invalid dictionary header": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词典头信息无效"
+          }
+        }
+      }
+    },
+    "Invalid EPUB structure": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "epub 结构无效"
+          }
+        }
+      }
+    },
+    "Invalid feed URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无效的订阅地址"
+          }
+        }
+      }
+    },
+    "Invalid or duplicate feed URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无效或已存在的订阅地址"
+          }
+        }
+      }
+    },
+    "Invalid source configuration. Please check the format.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书源配置不合法, 请检查格式是否正确~"
+          }
+        }
+      }
+    },
+    "Invalid URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您输入的url无效~"
+          }
+        }
+      }
+    },
+    "Japanese": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日语"
+          }
+        }
+      }
+    },
+    "Japanese–English JMdict (built-in)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日英词典 JMdict (内置)"
+          }
+        }
+      }
+    },
+    "Jianguoyun": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "坚果云"
+          }
+        }
+      }
+    },
+    "Jianguoyun: the username is your email; generate an app password under Account → Security → Third-party Apps.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "坚果云: 用户名为注册邮箱, 密码需在 账户信息 → 安全选项 → 第三方应用管理 中添加应用生成。"
+          }
+        }
+      }
+    },
+    "Json": {
+      "shouldTranslate": false
+    },
+    "Just now": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刚刚"
+          }
+        }
+      }
+    },
+    "Keep this screen open and don't lock your device during upload": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上传过程中请勿关闭该窗口或锁屏"
+          }
+        }
+      }
+    },
+    "Know It": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "认识"
+          }
+        }
+      }
+    },
+    "Koofr (10 GB free): the username is your email; generate an app password in Koofr web → Settings → Passwords.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koofr (免费10GB, 常用于存放英语外刊杂志): 用户名为注册邮箱, 密码需在 Koofr 网页版 设置 → Passwords 中生成应用专用密码。"
+          }
+        }
+      }
+    },
+    "Korean": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "韩语"
+          }
+        }
+      }
+    },
+    "Language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "语言"
+          }
+        }
+      }
+    },
+    "Language Changed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "界面语言已更改"
+          }
+        }
+      }
+    },
+    "Large": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大"
+          }
+        }
+      }
+    },
+    "Last 30 Days": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "近30天"
+          }
+        }
+      }
+    },
+    "Last 7 Days": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "近7天"
+          }
+        }
+      }
+    },
+    "Last read %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上次阅读 %@"
+          }
+        }
+      }
+    },
+    "Learn Again": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新学习"
+          }
+        }
+      }
+    },
+    "Let AI explain grammar, phrases and more as you read.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI分析句子语法、短语等, 让英语阅读更高效!"
+          }
+        }
+      }
+    },
+    "Level Highlight Colors": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分级单词高亮颜色"
+          }
+        }
+      }
+    },
+    "Level words won't be highlighted": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读时分级单词不会高亮"
+          }
+        }
+      }
+    },
+    "Levels are estimated automatically from how the book's vocabulary is distributed in the %@ graded word list, plus average sentence length. Books are public-domain titles from Project Gutenberg; download one to read it with tap-to-look-up.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "等级由 App 根据书中词汇在 %@ 分级词库中的分布以及句子长度自动评估, 书籍来自古登堡计划 (Project Gutenberg) 公版书, 下载后可直接阅读、点词查词。"
+          }
+        }
+      }
+    },
+    "Library": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书库"
+          }
+        }
+      }
+    },
+    "Line Height": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "行高"
+          }
+        }
+      }
+    },
+    "Links are disabled. Tap the top-right button to enable them.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已关闭网页超链接跳转, 点击右上角按钮即可打开~"
+          }
+        }
+      }
+    },
+    "Links enabled": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已开启超链接跳转"
+          }
+        }
+      }
+    },
+    "Loading book...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书籍加载中..."
+          }
+        }
+      }
+    },
+    "Loading transcript...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在加载节目字幕..."
+          }
+        }
+      }
+    },
+    "Loading...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据下载中..."
+          }
+        }
+      }
+    },
+    "Location in Text": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "原文位置"
+          }
+        }
+      }
+    },
+    "Longman": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "朗文"
+          }
+        }
+      }
+    },
+    "Look up a word…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查单词~"
+          }
+        }
+      }
+    },
+    "Look Up Online": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看网络释义"
+          }
+        }
+      }
+    },
+    "mailto:%@?subject=%@ Feedback": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mailto:%@?subject=%@ 问题反馈"
+          }
+        }
+      }
+    },
+    "Map": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导图"
+          }
+        }
+      }
+    },
+    "Mark as Finished": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标记读完"
+          }
+        }
+      }
+    },
+    "Mark as Unfinished": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标记为未读完"
+          }
+        }
+      }
+    },
+    "Marked as finished": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已标记读完"
+          }
+        }
+      }
+    },
+    "Mastered": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已掌握"
+          }
+        }
+      }
+    },
+    "Mastered (%lld)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已掌握%lld词"
+          }
+        }
+      }
+    },
+    "Media": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "多媒体"
+          }
+        }
+      }
+    },
+    "Menu": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "菜单"
+          }
+        }
+      }
+    },
+    "Microsoft Azure": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "微软Azure"
+          }
+        }
+      }
+    },
+    "Mind Map": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思维导图"
+          }
+        }
+      }
+    },
+    "Minutes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分钟"
+          }
+        }
+      }
+    },
+    "Model, e.g. gpt-4o-mini": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型名称 例如 gpt-4o-mini"
+          }
+        }
+      }
+    },
+    "More": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更多"
+          }
+        }
+      }
+    },
+    "Most Read": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读排行"
+          }
+        }
+      }
+    },
+    "Move": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移动"
+          }
+        }
+      }
+    },
+    "Move to Group": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移动到分组"
+          }
+        }
+      }
+    },
+    "Moved to “%@”": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已移动到「%@」"
+          }
+        }
+      }
+    },
+    "My %@ Level": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我的%@水平"
+          }
+        }
+      }
+    },
+    "New Caiyun users get 1M free characters: https://docs.caiyunapp.com/blog/2018/09/03/lingocloud-api/": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "彩云小译新用户可获得100万字符的免费额度, 请参考: https://docs.caiyunapp.com/blog/2018/09/03/lingocloud-api/ 。"
+          }
+        }
+      }
+    },
+    "New Group": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新建分组"
+          }
+        }
+      }
+    },
+    "Newest First": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最新优先"
+          }
+        }
+      }
+    },
+    "Next": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一个"
+          }
+        }
+      }
+    },
+    "Next Chapter": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一章"
+          }
+        }
+      }
+    },
+    "Next Page": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一页"
+          }
+        }
+      }
+    },
+    "Night": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "夜间"
+          }
+        }
+      }
+    },
+    "NiuTrans": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小牛翻译"
+          }
+        }
+      }
+    },
+    "NiuTrans: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小牛翻译: %@"
+          }
+        }
+      }
+    },
+    "No Animation": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无动画"
+          }
+        }
+      }
+    },
+    "No book sources. You can add one.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有图书源, 您可以添加图书源"
+          }
+        }
+      }
+    },
+    "No bookmarks yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本书暂无书签~"
+          }
+        }
+      }
+    },
+    "No books": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有图书信息"
+          }
+        }
+      }
+    },
+    "No books in this group yet\nLong-press a book on the shelf to move it here": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分组中还没有图书\n长按书架中的图书可移动到分组"
+          }
+        }
+      }
+    },
+    "No books. Search for a title above.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有图书信息, 可在上方搜索书名"
+          }
+        }
+      }
+    },
+    "No episodes match “%@”": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有找到包含「%@」的节目"
+          }
+        }
+      }
+    },
+    "No local dictionaries are enabled. Lookups will only show web dictionaries.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未启用任何本地词典, 查词时将只显示网页词典"
+          }
+        }
+      }
+    },
+    "No local dictionary enabled": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未启用本地词典"
+          }
+        }
+      }
+    },
+    "No mastered words yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还没有已掌握的单词~"
+          }
+        }
+      }
+    },
+    "No notes yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本书还未添加笔记~"
+          }
+        }
+      }
+    },
+    "No recommendations for this level yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无该等级的推荐"
+          }
+        }
+      }
+    },
+    "No results": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到"
+          }
+        }
+      }
+    },
+    "No sites yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您还未添加网站~"
+          }
+        }
+      }
+    },
+    "No translation engine configured": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未配置翻译引擎"
+          }
+        }
+      }
+    },
+    "No words due today!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今日没有需要学习的生词!"
+          }
+        }
+      }
+    },
+    "No words selected": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未选中任何单词~"
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未选择"
+          }
+        }
+      }
+    },
+    "Not Sure": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "记不清"
+          }
+        }
+      }
+    },
+    "Note added": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已添加笔记"
+          }
+        }
+      }
+    },
+    "Note Color": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择笔记颜色"
+          }
+        }
+      }
+    },
+    "Note deleted": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已删除笔记"
+          }
+        }
+      }
+    },
+    "Note updated": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读笔记已更新"
+          }
+        }
+      }
+    },
+    "Note: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "笔记: %@"
+          }
+        }
+      }
+    },
+    "Note: %@\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "笔记: %@\n"
+          }
+        }
+      }
+    },
+    "Note: if the OPDS catalog requires authentication, enter a username and password.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注意: 添加OPDS图书源时如果需要用户名、密码授权, 请填写用户名和密码。"
+          }
+        }
+      }
+    },
+    "Note: sources can be added as JSON, an array like [{\"type\":\"opds\",\"name\":\"...\",\"url\":\"https://...\",\"iconUrl\":\"\",\"desc\":\"\"}], where type is opds / webdav / web.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注意: 图书源支持json配置, 格式为数组: [{\"type\":\"opds\",\"name\":\"...\",\"url\":\"https://...\",\"iconUrl\":\"\",\"desc\":\"\"}], type 可为 opds / webdav / web。"
+          }
+        }
+      }
+    },
+    "Note: web sources only support downloading EPUB and PDF files.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注意: 网页图书源只支持epub、pdf格式的图书下载。"
+          }
+        }
+      }
+    },
+    "Notes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "笔记"
+          }
+        }
+      }
+    },
+    "Notes on “%@”\n\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "《%@》阅读笔记\n\n"
+          }
+        }
+      }
+    },
+    "Nothing to export": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有可导出的数据~"
+          }
+        }
+      }
+    },
+    "Offline TTS": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离线发音"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "确定"
+          }
+        }
+      }
+    },
+    "Oldest First": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最早优先"
+          }
+        }
+      }
+    },
+    "On-Device Transcript": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本地识别字幕"
+          }
+        }
+      }
+    },
+    "Online translation is unavailable. Check your network.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在线翻译暂不可用, 请检查网络"
+          }
+        }
+      }
+    },
+    "Only EPUB and PDF books can be downloaded": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只支持下载epub、pdf格式电子书~"
+          }
+        }
+      }
+    },
+    "Only EPUB, PDF and TXT books or MDX dictionaries are supported.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只支持epub、pdf、txt格式的书籍或者mdx字典!"
+          }
+        }
+      }
+    },
+    "Only mdx, mdd, js, css and image files can be imported": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只支持导入mdx、mdd、js、css以及图片文件"
+          }
+        }
+      }
+    },
+    "Other": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "其他"
+          }
+        }
+      }
+    },
+    "Outline": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大纲"
+          }
+        }
+      }
+    },
+    "p.%lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第%lld页"
+          }
+        }
+      }
+    },
+    "Page %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第 %lld 页"
+          }
+        }
+      }
+    },
+    "Page %lld / %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第%lld页 / %lld"
+          }
+        }
+      }
+    },
+    "Page saved": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页已收藏"
+          }
+        }
+      }
+    },
+    "Page Turn": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻页"
+          }
+        }
+      }
+    },
+    "Password (optional)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "密码 (可选)"
+          }
+        }
+      }
+    },
+    "Path, e.g. /v1/chat/completions": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请求路径 例如 /v1/chat/completions"
+          }
+        }
+      }
+    },
+    "PDF": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pdf格式"
+          }
+        }
+      }
+    },
+    "PDF with words, sentences and source books, great for review.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pdf格式, 包含单词、原文句子、来源书籍, 便于复习!"
+          }
+        }
+      }
+    },
+    "PDFs are opened with the PDF reader": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pdf 使用 PDF 阅读器"
+          }
+        }
+      }
+    },
+    "Phrase Prompt": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "短语指令"
+          }
+        }
+      }
+    },
+    "Pin": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "置顶"
+          }
+        }
+      }
+    },
+    "PingFang": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "苹方"
+          }
+        }
+      }
+    },
+    "Pinned": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已置顶"
+          }
+        }
+      }
+    },
+    "Plain text with words, sentences and source books, easy to edit.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "包含单词、原文句子、来源书籍, 文本格式便于二次编辑!"
+          }
+        }
+      }
+    },
+    "Platform": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择平台"
+          }
+        }
+      }
+    },
+    "Please enter a group name": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请输入分组名~"
+          }
+        }
+      }
+    },
+    "Please fill in all fields": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请填写所有字段"
+          }
+        }
+      }
+    },
+    "Please read the Terms of Service and Privacy Policy carefully. %@ stores your books, vocabulary and notes locally on your device. Translation, AI and web dictionary features send the text you look up to the third-party services you configure.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请你务必审慎阅读、充分理解服务协议和隐私政策各条款。%@ 的书籍、生词本、笔记等数据均保存在你的设备本地; 翻译、AI、网页词典等功能会将查询的文本发送到你所配置的第三方服务。"
+          }
+        }
+      }
+    },
+    "Points": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "包含要点"
+          }
+        }
+      }
+    },
+    "Postgraduate Exam": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "考研"
+          }
+        }
+      }
+    },
+    "Practical French from everyday Paris situations": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "巴黎生活场景中的实用法语"
+          }
+        }
+      }
+    },
+    "Preface": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "前言"
+          }
+        }
+      }
+    },
+    "Preparing subtitles...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "准备字幕..."
+          }
+        }
+      }
+    },
+    "Preparing...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "准备中..."
+          }
+        }
+      }
+    },
+    "Previous Chapter": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一章"
+          }
+        }
+      }
+    },
+    "Previous Page": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一页"
+          }
+        }
+      }
+    },
+    "Privacy Policy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私政策"
+          }
+        }
+      }
+    },
+    "Progress": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读进度"
+          }
+        }
+      }
+    },
+    "Pronunciation": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单词发音设置"
+          }
+        }
+      }
+    },
+    "Quit and reopen VReading to apply the new language.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请退出并重新打开 VReading 以应用新的界面语言。"
+          }
+        }
+      }
+    },
+    "Read": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读"
+          }
+        }
+      }
+    },
+    "Read %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "读到 %@"
+          }
+        }
+      }
+    },
+    "Read %@ · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "读到 %@ · %@"
+          }
+        }
+      }
+    },
+    "Read in a foreign language, effortlessly.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高效的英语阅读专用阅读器!"
+          }
+        }
+      }
+    },
+    "Read Mode": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读模式"
+          }
+        }
+      }
+    },
+    "Reading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读设置"
+          }
+        }
+      }
+    },
+    "Reading Days": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读天数"
+          }
+        }
+      }
+    },
+    "Reading Stats": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读统计"
+          }
+        }
+      }
+    },
+    "Reading the whole book...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在读取全书内容..."
+          }
+        }
+      }
+    },
+    "Reading Time": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读时长"
+          }
+        }
+      }
+    },
+    "Real conversations between native speakers": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "母语者之间的真实对话与讨论"
+          }
+        }
+      }
+    },
+    "Real-life conversations to improve fluency": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "真实场景对话, 提升英语流利度"
+          }
+        }
+      }
+    },
+    "Recently Read": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近阅读"
+          }
+        }
+      }
+    },
+    "Recommended for You": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "为你推荐"
+          }
+        }
+      }
+    },
+    "Recommended WebDAV drives: Koofr (10 GB), Jianguoyun, InfiniCLOUD (20 GB), Yandex (10 GB). Store your own books there and download them over WebDAV.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebDav云盘推荐使用 Koofr (10GB)、坚果云、InfiniCLOUD (20GB)、Yandex (10GB)。英语外刊可存放在网盘中通过 WebDav 在线下载阅读。"
+          }
+        }
+      }
+    },
+    "Regenerate": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新生成"
+          }
+        }
+      }
+    },
+    "Region (optional, e.g. eastasia)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 (可选, 如 eastasia)"
+          }
+        }
+      }
+    },
+    "Relaxed talk about French culture and daily life": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻松聊法国文化与日常"
+          }
+        }
+      }
+    },
+    "Remove Bookmark": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除书签"
+          }
+        }
+      }
+    },
+    "Remove from Group": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移出分组"
+          }
+        }
+      }
+    },
+    "Remove from Tab Bar": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从应用底部Tab移除"
+          }
+        }
+      }
+    },
+    "Remove Word": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除单词"
+          }
+        }
+      }
+    },
+    "Removed from group": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已移出分组"
+          }
+        }
+      }
+    },
+    "Removed from saved": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消收藏"
+          }
+        }
+      }
+    },
+    "Removed from vocabulary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已从生词库中删除"
+          }
+        }
+      }
+    },
+    "Rename Group": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑组名"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置"
+          }
+        }
+      }
+    },
+    "Results %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索结果 %lld"
+          }
+        }
+      }
+    },
+    "Retry": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试"
+          }
+        }
+      }
+    },
+    "Review Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "背单词"
+          }
+        }
+      }
+    },
+    "Reviews are scheduled along the forgetting curve for efficient memorization.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根据记忆曲线规划单词复习时间, 科学、高效背单词"
+          }
+        }
+      }
+    },
+    "Reviews: %lld, next review: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "学习次数: %lld, 下次复习: %@"
+          }
+        }
+      }
+    },
+    "RFI's daily news in easy French": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法国国际广播电台的简易法语新闻, 每日更新"
+          }
+        }
+      }
+    },
+    "RSS feed URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RSS 订阅地址"
+          }
+        }
+      }
+    },
+    "Russian": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "俄语"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存"
+          }
+        }
+      }
+    },
+    "Saved to bookshelf": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已经保存到书架~"
+          }
+        }
+      }
+    },
+    "Scroll": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "滚动"
+          }
+        }
+      }
+    },
+    "Search": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索"
+          }
+        }
+      }
+    },
+    "Search in book": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索书中内容"
+          }
+        }
+      }
+    },
+    "Search sites": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索网站"
+          }
+        }
+      }
+    },
+    "Search title or author": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索书名或作者"
+          }
+        }
+      }
+    },
+    "Search titles": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索书名"
+          }
+        }
+      }
+    },
+    "Search titles and descriptions": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索标题或简介关键词"
+          }
+        }
+      }
+    },
+    "Section %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第%lld节"
+          }
+        }
+      }
+    },
+    "Select All": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全选"
+          }
+        }
+      }
+    },
+    "Selected: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已选择 %@"
+          }
+        }
+      }
+    },
+    "Send Feedback": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "问题反馈"
+          }
+        }
+      }
+    },
+    "Sentence Prompt": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "句子指令"
+          }
+        }
+      }
+    },
+    "Set an API key in Settings → AI Settings first.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先在 设置 -> AI设置 中配置 API Key"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
+        }
+      }
+    },
+    "Share App": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分享App"
+          }
+        }
+      }
+    },
+    "Share Book": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分享书籍"
+          }
+        }
+      }
+    },
+    "Short everyday texts in slow English for beginners": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "慢速英语日常短文, 适合入门"
+          }
+        }
+      }
+    },
+    "Short general-knowledge episodes for native speakers": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "母语级百科知识小节目, 每集几分钟"
+          }
+        }
+      }
+    },
+    "Short stories of daily life in Paris, with transcripts": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "巴黎日常生活小故事, 每集附带字幕"
+          }
+        }
+      }
+    },
+    "Show Library Tab": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "底部显示书库Tab"
+          }
+        }
+      }
+    },
+    "Show Transcript": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "节目字幕"
+          }
+        }
+      }
+    },
+    "Show Translation": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示翻译"
+          }
+        }
+      }
+    },
+    "Sign in to https://portal.azure.com/, create a Translator resource (2M free characters per month) and copy its API key.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "微软Azure翻译请登录 https://portal.azure.com/ , 注册账户并且创建文本翻译服务(每月200万字符免费额度), 获取到Api key。"
+          }
+        }
+      }
+    },
+    "Sign up for DeepL and create an API key (500,000 free characters per month): https://www.deepl.com/": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注册DeepL之后申请Api key(每月50万字符免费额度), 官网 https://www.deepl.com/ 。"
+          }
+        }
+      }
+    },
+    "Single Source": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单个图书源"
+          }
+        }
+      }
+    },
+    "Slide": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "滑动"
+          }
+        }
+      }
+    },
+    "Slow French dialogues for beginners": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "慢速法语小对话, 适合入门"
+          }
+        }
+      }
+    },
+    "Slow, clear French about everyday topics": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "慢速清晰的法语, 话题贴近生活"
+          }
+        }
+      }
+    },
+    "Small": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小"
+          }
+        }
+      }
+    },
+    "Society, culture and life in clear, simple French. A favorite of intermediate learners.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用简单清晰的法语聊社会、文化与生活, 中级学习者最受欢迎的法语播客"
+          }
+        }
+      }
+    },
+    "Songti": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "宋体"
+          }
+        }
+      }
+    },
+    "Sorry, this file type can't be downloaded": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "抱歉,不支持该类型文件下载"
+          }
+        }
+      }
+    },
+    "Sort": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "排序"
+          }
+        }
+      }
+    },
+    "Sound-rich stories of science and philosophy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "科学与哲学的声音叙事"
+          }
+        }
+      }
+    },
+    "Source added": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书源添加成功!"
+          }
+        }
+      }
+    },
+    "Source name (optional)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书源名称 (选填)"
+          }
+        }
+      }
+    },
+    "Source Type": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书源类型"
+          }
+        }
+      }
+    },
+    "Source URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图书源url"
+          }
+        }
+      }
+    },
+    "Source: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源:《%@》"
+          }
+        }
+      }
+    },
+    "Source: %@\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源:《%@》\n"
+          }
+        }
+      }
+    },
+    "Spanish": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "西班牙语"
+          }
+        }
+      }
+    },
+    "Spanish Majors Level 8": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专八"
+          }
+        }
+      }
+    },
+    "Spanish–English (built-in)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "西英词典 (内置)"
+          }
+        }
+      }
+    },
+    "Speech recognition for this language is not supported on this device": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本机不支持该语言的语音识别"
+          }
+        }
+      }
+    },
+    "Spoken French from real life": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「真实生活」中的法语口语"
+          }
+        }
+      }
+    },
+    "Start Reading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始阅读"
+          }
+        }
+      }
+    },
+    "Start Review": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始背单词"
+          }
+        }
+      }
+    },
+    "Stories of history, culture and science in clear English": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用清晰的英语讲历史、文化和科学故事"
+          }
+        }
+      }
+    },
+    "Structured French lessons (explained in English)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统的法语课程 (英语讲解)"
+          }
+        }
+      }
+    },
+    "Subtitles": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字幕"
+          }
+        }
+      }
+    },
+    "Supports MDict dictionaries (mdx, mdd and css files)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "支持MDict英汉、英英字典 (mdx、mdd、css 文件)"
+          }
+        }
+      }
+    },
+    "Swipe up or down to show the menu.\nTap a word to look it up and translate its sentence.\nLong-press to select text to highlight, annotate or translate.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上、下滑动显示菜单,\n点击单词即可查看释义、翻译句子\n长按选中文字可划线、做笔记、翻译"
+          }
+        }
+      }
+    },
+    "System Prompt": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提示词 - System Prompt"
+          }
+        }
+      }
+    },
+    "System Translation (offline)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统翻译 (离线)"
+          }
+        }
+      }
+    },
+    "Tap a book file to download it.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击图书文件即可进行下载。"
+          }
+        }
+      }
+    },
+    "Tap the language tag of an imported dictionary to set its language: it is then used only for books in that language, or for all books if set to Any. An mdd / css file with the same name is used as its resources and style.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入的词典可点击语言标签设置语言: 设为某种语言时只在阅读该语言书籍时使用, 设为通用则所有语言都会使用。同名的 mdd / css 会作为词典资源和样式。"
+          }
+        }
+      }
+    },
+    "TEM-4": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专四"
+          }
+        }
+      }
+    },
+    "TEM-8": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专八"
+          }
+        }
+      }
+    },
+    "Tencent Cloud Translate": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "腾讯云翻译"
+          }
+        }
+      }
+    },
+    "Tencent Cloud Translate (5M free characters per month): create a SecretId / SecretKey in Access Management.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "腾讯云翻译(每月500万字符免费额度), 在访问管理中创建 SecretId / SecretKey。"
+          }
+        }
+      }
+    },
+    "Tencent Cloud: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "腾讯云: %@"
+          }
+        }
+      }
+    },
+    "Terms of Service": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "服务协议"
+          }
+        }
+      }
+    },
+    "Terms of Service & Privacy Policy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "服务协议与隐私政策"
+          }
+        }
+      }
+    },
+    "Text": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正文"
+          }
+        }
+      }
+    },
+    "Texture": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "纹理"
+          }
+        }
+      }
+    },
+    "The %@ list is coming soon": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@书单准备中, 敬请期待"
+          }
+        }
+      }
+    },
+    "The AI is still replying. Please wait...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前AI消息未结束, 请稍后再发送..."
+          }
+        }
+      }
+    },
+    "The AI returned no usable content. Please try again later.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 没有返回有效内容, 请稍后重试"
+          }
+        }
+      }
+    },
+    "The book is empty": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书籍内容为空"
+          }
+        }
+      }
+    },
+    "The everyday world through an economist's eyes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用经济学视角看日常世界"
+          }
+        }
+      }
+    },
+    "The hidden forces behind human behavior": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心理学与人类行为背后的秘密"
+          }
+        }
+      }
+    },
+    "The New York Times' daily news deep dive": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "纽约时报每日新闻深度报道"
+          }
+        }
+      }
+    },
+    "The number of recent messages sent as context. Set to 0 to disable context; the AI will only see your latest message.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "调整上下文消息条数可以让AI根据您最近的消息回答问题。设置为0则表示关闭上下文, AI将只能理解您输入的最新消息。"
+          }
+        }
+      }
+    },
+    "Theme": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "主题"
+          }
+        }
+      }
+    },
+    "This book has no table of contents": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本书不包含目录~"
+          }
+        }
+      }
+    },
+    "This folder is empty": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前目录还未添加文件~"
+          }
+        }
+      }
+    },
+    "This site is already in your list": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "该网页在列表中已经存在, 请勿重复收藏~"
+          }
+        }
+      }
+    },
+    "This week %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本周 %@"
+          }
+        }
+      }
+    },
+    "Tip: download languages in iOS Settings → Apps → Translate to use offline system translation.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提示: 在系统 设置 → App → 翻译 中下载对应语言后, 可使用离线系统翻译。"
+          }
+        }
+      }
+    },
+    "Title": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书名"
+          }
+        }
+      }
+    },
+    "Title (optional)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标题 (可选)"
+          }
+        }
+      }
+    },
+    "Title A→Z": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "名称 A→Z"
+          }
+        }
+      }
+    },
+    "Title Z→A": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "名称 Z→A"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今日阅读"
+          }
+        }
+      }
+    },
+    "Too many words selected for lookup. Use Translate instead.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查词异常: 选中的单词较多,请使用翻译功能"
+          }
+        }
+      }
+    },
+    "Total %@, daily average %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共 %@, 日均 %@"
+          }
+        }
+      }
+    },
+    "Total Time": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "累计时长"
+          }
+        }
+      }
+    },
+    "Total Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "字数"
+          }
+        }
+      }
+    },
+    "Transcribing on device...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在本地识别生成字幕..."
+          }
+        }
+      }
+    },
+    "Transcribing on device... %@ done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在本地识别生成字幕... 已识别 %@"
+          }
+        }
+      }
+    },
+    "Translate": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译"
+          }
+        }
+      }
+    },
+    "Translate Into": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译目标语言"
+          }
+        }
+      }
+    },
+    "Translate To": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译成"
+          }
+        }
+      }
+    },
+    "Translating...": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译中..."
+          }
+        }
+      }
+    },
+    "Translation Engines": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译引擎配置"
+          }
+        }
+      }
+    },
+    "Translation failed (%lld): %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译失败 (%lld): %@"
+          }
+        }
+      }
+    },
+    "Translation failed. Check your network or AI settings.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译失败, 请检查网络或 AI 设置"
+          }
+        }
+      }
+    },
+    "Translation failed: %@\nYou can add engines such as DeepL in Settings → Reading → Translation Engines.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译失败: %@\n可在 设置 → 阅读设置 → 翻译引擎配置 中添加 DeepL、百度等翻译引擎。"
+          }
+        }
+      }
+    },
+    "Translation failed: invalid API key": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翻译失败, api key无效~"
+          }
+        }
+      }
+    },
+    "True stories of American life; a landmark narrative podcast": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "美国生活纪实故事, 叙事播客的代表作"
+          }
+        }
+      }
+    },
+    "True stories told in French and English": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "真实人物故事, 法英双语讲述"
+          }
+        }
+      }
+    },
+    "Two hosts chat about everyday topics in natural spoken French": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "两位主持人用地道口语聊日常话题"
+          }
+        }
+      }
+    },
+    "TXT": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "txt格式"
+          }
+        }
+      }
+    },
+    "TXT (words only)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "txt格式 (仅单词)"
+          }
+        }
+      }
+    },
+    "Type": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "类型"
+          }
+        }
+      }
+    },
+    "UK": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英音"
+          }
+        }
+      }
+    },
+    "Unique Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词汇量"
+          }
+        }
+      }
+    },
+    "Unpin": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消置顶"
+          }
+        }
+      }
+    },
+    "Unpinned": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消置顶"
+          }
+        }
+      }
+    },
+    "Unread": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未读"
+          }
+        }
+      }
+    },
+    "Unsupported file format: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您导入了不支持的文件格式: %@"
+          }
+        }
+      }
+    },
+    "Unsupported format %@. Please choose EPUB or PDF on the website.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂不支持 %@ 格式, 请在网站上选择 EPUB 或 PDF 格式下载"
+          }
+        }
+      }
+    },
+    "Unsupported format. Please choose EPUB or PDF on the website.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂不支持该格式, 请在网站上选择 EPUB 或 PDF 格式下载"
+          }
+        }
+      }
+    },
+    "Untold stories behind design and architecture": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设计与建筑背后不为人知的故事"
+          }
+        }
+      }
+    },
+    "URL, starting with http or https": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网站地址, 必须以http或者https开头"
+          }
+        }
+      }
+    },
+    "US": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "美音"
+          }
+        }
+      }
+    },
+    "Use System Brightness": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跟随系统亮度"
+          }
+        }
+      }
+    },
+    "Username (optional)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用户名 (可选)"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前版本"
+          }
+        }
+      }
+    },
+    "Vocabulary": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生词本"
+          }
+        }
+      }
+    },
+    "Vocabulary %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词汇量 %@"
+          }
+        }
+      }
+    },
+    "Vocabulary Profile": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "词汇透析"
+          }
+        }
+      }
+    },
+    "VReading Vocabulary (%lld words)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VReading 生词本 (%lld词)"
+          }
+        }
+      }
+    },
+    "VReading_Vocabulary_%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VReading生词本_%@"
+          }
+        }
+      }
+    },
+    "Web Dictionaries · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页词典 · %@"
+          }
+        }
+      }
+    },
+    "Web Reading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页阅读"
+          }
+        }
+      }
+    },
+    "WebDAV authorization failed. Check your configuration. (%lld)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebDav授权失败, 请检查配置是否正确! (%lld)"
+          }
+        }
+      }
+    },
+    "WebDAV authorization failed. Check your username and password.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebDav授权失败, 请检查用户名、密码是否正确!"
+          }
+        }
+      }
+    },
+    "WebDAV password": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "webdav账户密码"
+          }
+        }
+      }
+    },
+    "WebDAV server name (optional)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "webdav服务器名称 (可选)"
+          }
+        }
+      }
+    },
+    "WebDAV server URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "webdav服务器url"
+          }
+        }
+      }
+    },
+    "WebDAV username": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "webdav账户名"
+          }
+        }
+      }
+    },
+    "When the center button is green, tap words to look them up or translate. Red means browse mode, where taps follow links normally. Tap the button to switch modes.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加载完毕, 中心按钮背景变为绿色时可单击查词、翻译等; 红色时表示为浏览模式, 不可单击查词等; 点击按钮切换模式!"
+          }
+        }
+      }
+    },
+    "Which exam are you preparing for?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您将要参加的外语考试是?"
+          }
+        }
+      }
+    },
+    "Wi-Fi Dictionary Transfer": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WiFi 传字典"
+          }
+        }
+      }
+    },
+    "Wi-Fi is not available. Connect to Wi-Fi and try again.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WLAN服务未开启, 请连接WiFi后重试"
+          }
+        }
+      }
+    },
+    "Wi-Fi Transfer": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WiFi 传书"
+          }
+        }
+      }
+    },
+    "With your own key, only the provider's quota applies; the app doesn't limit translations. Long-press and drag to set priority.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配置翻译平台key之后每月的翻译限额为平台限额, App不再限制翻译次数，长按拖动可进行优先级排序。"
+          }
+        }
+      }
+    },
+    "Without a configured engine, iOS system translation is used (works offline once languages are downloaded).": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未配置翻译引擎时使用系统翻译 (iOS 翻译, 可下载语言后离线使用)"
+          }
+        }
+      }
+    },
+    "Word Levels": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单词分级"
+          }
+        }
+      }
+    },
+    "Word levels highlighted while reading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读时高亮显示的词汇等级(考研词汇等)"
+          }
+        }
+      }
+    },
+    "Word Prompt": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单词指令"
+          }
+        }
+      }
+    },
+    "Words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生词"
+          }
+        }
+      }
+    },
+    "Words at the selected levels are highlighted when you read books in that language, so you learn vocabulary as you read. French TCF/TEF levels follow the CEFR (A1–C2).": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择之后, 阅读对应语言的书籍时这些等级的词汇会高亮显示, 便于在阅读中学习单词! 法语 TCF/TEF 按欧洲语言框架 A1-C2 分级。"
+          }
+        }
+      }
+    },
+    "Words only, one per line, for importing into other flashcard apps.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅包含单词(每行一个), 便于导入到第三方背单词App里!"
+          }
+        }
+      }
+    },
+    "Write a note…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加阅读笔记~"
+          }
+        }
+      }
+    },
+    "Yandex Disk (10 GB free): sign in with an app password generated in Yandex ID.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yandex Disk (免费10GB): 需使用 Yandex ID 中生成的应用密码登录。"
+          }
+        }
+      }
+    },
+    "Yesterday": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
+          }
+        }
+      }
+    },
+    "You are a language teacher helping the user learn a foreign language while reading. Keep answers short: get straight to the point, with no headings, pleasantries or follow-up questions, usually under 80 words.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你是一个外语老师，帮助用户在阅读中学习外语。回答要简短: 直接给出要点，不要标题、不要客套话、不要追问，一般不超过120字。"
+          }
+        }
+      }
+    },
+    "You can find a show's RSS feed on Apple Podcasts and similar platforms": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可在 Apple 播客等平台找到节目的 RSS 地址"
+          }
+        }
+      }
+    },
+    "You reviewed %lld words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本次学习 %lld 个单词"
+          }
+        }
+      }
+    },
+    "You selected a sentence. Please select a single word.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您选中的是句子, 请选择单词~"
+          }
+        }
+      }
+    },
+    "You've reached the end of the book": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本书已读完~"
+          }
+        }
+      }
+    },
+    "Youdao": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有道词典"
+          }
+        }
+      }
+    },
+    "Youdao AI Cloud": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有道智云"
+          }
+        }
+      }
+    },
+    "Youdao error code: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有道智云错误码: %@"
+          }
+        }
+      }
+    },
+    "Your bookshelf is empty\nTap the top-right button to import books or use Wi-Fi Transfer, or download from the Library": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书架空空如也\n点击右上角导入本地书籍、WiFi传书, 或到书库下载"
+          }
+        }
+      }
+    },
+    "Your vocabulary is empty": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生词本中还没有单词~"
+          }
+        }
+      }
+    },
+    "Z → A": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按字母降序"
+          }
+        }
+      }
+    },
+    "ZIP central directory not found": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到 zip 目录"
+          }
+        }
+      }
+    },
+    "ZIP file is too small": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zip 文件过小"
+          }
+        }
+      }
+    },
+    "~%lld h": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约%lld小时"
+          }
+        }
+      }
+    },
+    "~%lld min": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约%lld分钟"
+          }
+        }
+      }
+    },
+    "~1,000 words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约 1000 词"
+          }
+        }
+      }
+    },
+    "~2,000 words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约 2000 词"
+          }
+        }
+      }
+    },
+    "~4,000 words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约 4000 词"
+          }
+        }
+      }
+    },
+    "~500 words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约 500 词"
+          }
+        }
+      }
+    },
+    "~6,000 words": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "约 6000 词"
+          }
+        }
+      }
+    },
+    "· %@": {
+      "shouldTranslate": false
+    },
+    "×%lld": {
+      "shouldTranslate": false
+    },
+    "“%@”": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "《%@》"
+          }
+        }
+      }
+    },
+    "“%@” is already on your bookshelf.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书籍已在书架中, 请勿重复导入《%@》~"
+          }
+        }
+      }
+    },
+    "“%@” not found": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 未找到!"
+          }
+        }
+      }
+    },
+    "“%@…”": {
+      "shouldTranslate": false
+    },
+    "“For You” is based on your %@ level set on the Discover tab. Synced subtitles appear during playback: the show's own transcript is used when available, otherwise one is generated on device. Tap a word to look it up, or tap a line to jump to it.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「适合你」依据「推荐」页中设置的%@水平。播放时自动显示同步字幕: 节目自带字幕时直接使用, 否则在本机离线识别生成。点击字幕中的单词即可查词, 点击句子跳转播放。"
+          }
+        }
+      }
+    },
+    "💡 ": {
+      "shouldTranslate": false
+    },
+    "Project Gutenberg Popular": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Project Gutenberg 热门"
+          }
+        }
+      }
+    },
+    "70,000+ public-domain books from Project Gutenberg, sorted by downloads, with search": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "古登堡计划 7 万多本公版书, 按下载量排序, 支持搜索"
+          }
+        }
+      }
+    },
+    "Project Gutenberg Latest": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Project Gutenberg 最新上架"
+          }
+        }
+      }
+    },
+    "The latest public-domain books added to Project Gutenberg": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "古登堡计划最新收录的公版书"
+          }
+        }
+      }
+    },
+    "Beautifully formatted public-domain ebooks with new covers, based on Project Gutenberg": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "基于Gutenberg计划书籍精心制作封面、排版的最新精美原版书!"
+          }
+        }
+      }
+    },
+    "FeedBooks (Cantook) catalog with search; only sample chapters can be downloaded": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FeedBooks (Cantook) 书店目录, 支持搜索, 仅提供试读章节下载"
+          }
+        }
+      }
+    },
+    "Show 18+ Titles": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示 18+ 书籍"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

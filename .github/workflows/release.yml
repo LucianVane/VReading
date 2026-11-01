@@ -1,0 +1,78 @@
+name: Release
+
+# Push a version tag (e.g. `git tag v1.0.0 && git push origin v1.0.0`) to build an
+# unsigned .ipa and attach it to a GitHub Release. Users sign it themselves with
+# AltStore / SideStore / Sideloadly when installing.
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Existing tag to build (e.g. v1.0.0)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  ipa:
+    name: Build unsigned IPA
+    runs-on: macos-26
+    timeout-minutes: 40
+    env:
+      TAG: ${{ github.event.inputs.tag || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.TAG }}
+
+      - name: Select Xcode
+        run: sudo xcode-select -s "$(ls -d /Applications/Xcode_26*.app | sort -V | tail -1)"
+
+      - name: Build (Release, unsigned)
+        run: |
+          set -o pipefail
+          VERSION="${TAG#v}"
+          xcodebuild \
+            -project VReading.xcodeproj \
+            -scheme VReading \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build/DerivedData \
+            MARKETING_VERSION="$VERSION" \
+            CURRENT_PROJECT_VERSION="${{ github.run_number }}" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            build | xcbeautify --renderer github-actions
+
+      - name: Package IPA
+        run: |
+          APP=build/DerivedData/Build/Products/Release-iphoneos/VReading.app
+          # Safety check: never publish a build with an embedded API key
+          KEY=$(/usr/libexec/PlistBuddy -c "Print :VRDeepSeekAPIKey" "$APP/Info.plist" 2>/dev/null || true)
+          if [ -n "$KEY" ]; then echo "::error::An API key is embedded in the build"; exit 1; fi
+          mkdir -p dist/Payload
+          cp -R "$APP" dist/Payload/
+          (cd dist && zip -qry "VReading-${TAG}-unsigned.ipa" Payload)
+          shasum -a 256 "dist/VReading-${TAG}-unsigned.ipa" | tee "dist/VReading-${TAG}-unsigned.ipa.sha256"
+
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NOTES=$(cat <<'EOF'
+          ### Install
+
+          This is an **unsigned** IPA. Sign and install it with one of:
+          - [AltStore](https://altstore.io) / [SideStore](https://sidestore.io): open the `.ipa` from the Files app
+          - [Sideloadly](https://sideloadly.io): drag the `.ipa` in and use your Apple ID
+
+          With a free Apple ID the app must be re-signed every 7 days. Requires iOS 18 or later.
+          EOF
+          )
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" dist/*.ipa dist/*.sha256 --clobber
+          else
+            gh release create "$TAG" dist/*.ipa dist/*.sha256 --title "VReading $TAG" --notes "$NOTES" --generate-notes
+          fi

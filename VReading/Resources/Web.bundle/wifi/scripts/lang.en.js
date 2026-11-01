@@ -1,0 +1,34 @@
+var STRINGS = {};
+
+STRINGS.WIFI_TRANS_TITLE = 'Wi-Fi Transfer';
+STRINGS.FILES_ON_DEVICE = 'Files on your device';
+STRINGS.FILENAME = 'Name';
+STRINGS.FILE_SIZE = 'Size';
+STRINGS.FILE_OPER = 'Actions';
+STRINGS.CONFIRM_DELETE_BOOK = 'Delete this file?';
+STRINGS.DOWNLOAD_FILE = 'Download';
+STRINGS.DELETE_FILE = 'Delete';
+STRINGS.USE_ONE_BROWSER = 'Upload failed. Please do not upload from several browser windows at the same time.';
+STRINGS.UPLOAD_FAILED = 'Upload failed. Reopen Wi-Fi Transfer in the app, refresh this page and try again.';
+STRINGS.UNSUPPORTED_FILE_TYPE = 'Please choose EPUB, PDF or TXT books, MDX/MDD dictionaries, or CSS/JS files.';
+STRINGS.FILE_IN_QUEUE = 'This file is already in the upload queue.';
+STRINGS.FILE_EXISTS = 'The file already exists. Delete it first to upload it again.';
+STRINGS.YOU_CHOOSE = 'You selected ';
+STRINGS.CHOSEN_FILE_COUNT = ' files; only ';
+STRINGS.VALID_CHOSEN_FILE_COUNT = ' can be uploaded.\nPlease choose EPUB, PDF or TXT books or MDX/MDD dictionaries with unique file names.';
+STRINGS.CANCEL = 'Cancel';
+STRINGS.SELECT_YOUR_FILES = 'Choose files to upload to VReading';
+STRINGS.SUPPORTED_FILE_TYPES = 'EPUB, PDF and TXT books or MDX/MDD dictionaries';
+STRINGS.CANNOT_CONNECT_SERVER = 'Cannot reach the Wi-Fi Transfer server. Reopen Wi-Fi Transfer in the app, refresh this page and try again.';
+STRINGS.DRAG_TO_HERE = "Drop files here to upload";
+STRINGS.SELECT_BUTTON_LABLE1 = "Choose Files";
+STRINGS.SELECT_BUTTON_LABLE2 = "You can upload several files at once";
+STRINGS.SELECT_BUTTON_LABLE = "Choose Files";
+STRINGS.WIFI_AVAILABLE = "Wi-Fi connected";
+
+STRINGS.FONT_WIFI_TRANS_TITLE = 'Wi-Fi Font Transfer';
+STRINGS.FONT_CONFIRM_DELETE_BOOK = 'Delete this font?';
+STRINGS.FONT_UNSUPPORTED_FILE_TYPE = 'Please choose TTF or OTF font files.';
+STRINGS.FONT_SUPPORTED_FILE_TYPES = 'TTF and OTF supported';
+STRINGS.FONT_VALID_CHOSEN_FILE_COUNT = ' can be uploaded.\nPlease choose TTF or OTF files with unique file names.';
+STRINGS.FONT_FILE_EXISTS = 'The file already exists.';

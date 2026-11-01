@@ -1,0 +1,12 @@
+// Copy this file to Local.xcconfig (git-ignored) to set personal build values.
+
+// Your Apple Developer Team ID (needed only to run on a physical device).
+DEVELOPMENT_TEAM = ABCDE12345
+
+// Use a bundle identifier you own.
+PRODUCT_BUNDLE_IDENTIFIER = com.yourname.vreading
+
+// Optional: a DeepSeek API key baked in as the default for AI features.
+// WARNING: keys embedded in an app binary can be extracted. Never ship a
+// personal key in a public build.
+DEEPSEEK_API_KEY =

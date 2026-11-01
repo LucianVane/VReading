@@ -1,0 +1,30 @@
+[
+  {
+    "type": "opds",
+    "name": "Project Gutenberg Popular",
+    "url": "https://www.gutenberg.org/ebooks/search.opds/?sort_order=downloads",
+    "iconUrl": "https://www.gutenberg.org/gutenberg/pg-logo-129x80.png",
+    "desc": "70,000+ public-domain books from Project Gutenberg, sorted by downloads, with search"
+  },
+  {
+    "type": "opds",
+    "name": "Project Gutenberg Latest",
+    "url": "https://www.gutenberg.org/ebooks/search.opds/?sort_order=release_date",
+    "iconUrl": "https://www.gutenberg.org/gutenberg/pg-logo-129x80.png",
+    "desc": "The latest public-domain books added to Project Gutenberg"
+  },
+  {
+    "type": "opds",
+    "name": "Standard Ebooks Newest",
+    "url": "https://standardebooks.org/feeds/atom/new-releases",
+    "iconUrl": "https://standardebooks.org/images/logo.png",
+    "desc": "Beautifully formatted public-domain ebooks with new covers, based on Project Gutenberg"
+  },
+  {
+    "type": "opds",
+    "name": "FeedBooks",
+    "url": "https://catalog.feedbooks.com/search.atom?query=english%20classics",
+    "iconUrl": "https://catalog.feedbooks.com/favicon.ico",
+    "desc": "FeedBooks (Cantook) catalog with search; only sample chapters can be downloaded"
+  }
+]

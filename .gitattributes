@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.pbxproj text -diff merge=union
+*.mdx binary
+*.mdd binary
+*.db binary
+*.anki2 binary
+*.epub binary
+*.png binary
+*.jpg binary
+*.gif binary

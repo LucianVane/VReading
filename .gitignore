@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local, personal configuration — never commit
+Local.xcconfig
+*.rtf
+.env
+
+# Copyrighted dictionaries you may drop in locally (see README → Dictionaries)
+VReading/Resources/Data/21_en_zh.mdx
+VReading/Resources/Data/21_en_zh.css

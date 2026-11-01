@@ -1,0 +1,2162 @@
+[
+ {
+  "id": 55456,
+  "title": "Aventures d'Alice au pays des merveilles",
+  "author": "Lewis Carroll",
+  "score": 29.22,
+  "words": 26324,
+  "coverage": [
+   81.9,
+   84.4,
+   89.2,
+   93.2,
+   93.9,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/55456.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/55456/pg55456.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 16884,
+  "title": "Ubu Roi, ou, les Polonais",
+  "author": "Alfred Jarry",
+  "score": 29.57,
+  "words": 12644,
+  "coverage": [
+   77.4,
+   80.5,
+   87.8,
+   92.2,
+   93.2,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/16884.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/16884/pg16884.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 23098,
+  "title": "La Femme Abbé",
+  "author": "Sylvain Maréchal",
+  "score": 30.58,
+  "words": 17503,
+  "coverage": [
+   77.4,
+   81.2,
+   87.6,
+   93.4,
+   94.4,
+   95.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/23098.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/23098/pg23098.cover.medium.jpg",
+  "genre": "Category: Essays, Letters & Speeches",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 1339,
+  "title": "Salomé",
+  "author": "Oscar Wilde",
+  "score": 23.91,
+  "words": 11183,
+  "coverage": [
+   82.3,
+   85.3,
+   89.7,
+   93.3,
+   94.3,
+   95.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1339.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1339/pg1339.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 79343,
+  "title": "Hirondelles de plages",
+  "author": "Tristan Bernard",
+  "score": 29.72,
+  "words": 29116,
+  "coverage": [
+   79.0,
+   82.5,
+   88.7,
+   93.9,
+   94.7,
+   95.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/79343.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/79343/pg79343.cover.medium.jpg",
+  "genre": "20th century",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 15058,
+  "title": "Les malheurs de Sophie",
+  "author": "Sophie, comtesse de Ségur",
+  "score": 25.84,
+  "words": 33666,
+  "coverage": [
+   82.6,
+   85.6,
+   90.3,
+   93.9,
+   94.6,
+   95.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/15058.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/15058/pg15058.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 26648,
+  "title": "Les lauriers sont coupés",
+  "author": "Edouard Dujardin",
+  "score": 30.34,
+  "words": 24610,
+  "coverage": [
+   80.2,
+   83.1,
+   89.0,
+   93.6,
+   94.7,
+   95.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/26648.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/26648/pg26648.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 54231,
+  "title": "La casserole: drame en un acte, en prose",
+  "author": "Oscar Méténier",
+  "score": 31.74,
+  "words": 6878,
+  "coverage": [
+   76.7,
+   80.8,
+   85.2,
+   90.0,
+   91.0,
+   91.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/54231.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/54231/pg54231.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 4559,
+  "title": "Poil de Carotte",
+  "author": "Jules Renard",
+  "score": 31.54,
+  "words": 33085,
+  "coverage": [
+   76.7,
+   80.5,
+   87.3,
+   92.9,
+   94.2,
+   95.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/4559.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/4559/pg4559.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 11767,
+  "title": "Contes à Jeannot",
+  "author": "Jules Girardin",
+  "score": 31.82,
+  "words": 12608,
+  "coverage": [
+   79.9,
+   82.8,
+   88.4,
+   93.6,
+   94.4,
+   95.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11767.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11767/pg11767.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 11928,
+  "title": "Les douze nouvelles nouvelles",
+  "author": "Arsène Houssaye",
+  "score": 30.39,
+  "words": 38593,
+  "coverage": [
+   80.5,
+   83.3,
+   88.2,
+   92.7,
+   93.5,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11928.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11928/pg11928.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 27018,
+  "title": "Point de lendemain",
+  "author": "Vivant Denon",
+  "score": 32.52,
+  "words": 8665,
+  "coverage": [
+   76.9,
+   80.7,
+   86.9,
+   92.8,
+   93.5,
+   94.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/27018.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/27018/pg27018.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "A1"
+ },
+ {
+  "id": 32244,
+  "title": "Un p'tit homme",
+  "author": "P. L. Jacob",
+  "score": 31.32,
+  "words": 7749,
+  "coverage": [
+   78.7,
+   82.2,
+   88.2,
+   93.1,
+   93.9,
+   94.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/32244.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/32244/pg32244.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 68327,
+  "title": "Le livre des enfants",
+  "author": "Marceline Desbordes-Valmore",
+  "score": 31.07,
+  "words": 3377,
+  "coverage": [
+   79.5,
+   82.7,
+   88.0,
+   92.0,
+   93.2,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/68327.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/68327/pg68327.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 45411,
+  "title": "Trois mois sous la neige: Journal d'un jeune habitant du Jura",
+  "author": "J. Jacques (Jean Jacques) Porchat",
+  "score": 31.27,
+  "words": 30292,
+  "coverage": [
+   79.5,
+   82.9,
+   88.9,
+   93.9,
+   94.7,
+   95.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/45411.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/45411/pg45411.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 65025,
+  "title": "La petite sœur de Trott",
+  "author": "André Lichtenberger",
+  "score": 30.11,
+  "words": 38321,
+  "coverage": [
+   79.1,
+   81.7,
+   87.8,
+   93.6,
+   94.7,
+   95.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/65025.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/65025/pg65025.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 71553,
+  "title": "Caillou et Tili",
+  "author": "Pierre Mille",
+  "score": 31.24,
+  "words": 39405,
+  "coverage": [
+   79.7,
+   82.8,
+   88.8,
+   94.1,
+   95.0,
+   95.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/71553.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/71553/pg71553.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 62215,
+  "title": "Le Fantôme de l'Opéra",
+  "author": "Gaston Leroux",
+  "score": 30.25,
+  "words": 100959,
+  "coverage": [
+   78.2,
+   81.7,
+   88.1,
+   93.4,
+   94.2,
+   95.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/62215.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/62215/pg62215.cover.medium.jpg",
+  "genre": "Category: Crime, Thrillers and Mystery",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 76412,
+  "title": "Le cas étrange du docteur Jekyll; Un logement pour la nuit",
+  "author": "Robert Louis Stevenson",
+  "score": 35.13,
+  "words": 33921,
+  "coverage": [
+   77.5,
+   80.6,
+   87.5,
+   93.1,
+   94.0,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76412.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76412/pg76412.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 18143,
+  "title": "Roméo et Juliette: Tragédie",
+  "author": "William Shakespeare",
+  "score": 34.84,
+  "words": 36259,
+  "coverage": [
+   75.1,
+   78.8,
+   85.1,
+   91.3,
+   92.3,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/18143.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/18143/pg18143.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 6838,
+  "title": "Le Dernier Jour d'un Condamné",
+  "author": "Victor Hugo",
+  "score": 34.23,
+  "words": 33818,
+  "coverage": [
+   76.6,
+   79.7,
+   86.4,
+   92.1,
+   93.3,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/6838.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/6838/pg6838.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 30117,
+  "title": "ABC: Petits Contes",
+  "author": "Jules Lemaître",
+  "score": 33.49,
+  "words": 5906,
+  "coverage": [
+   78.9,
+   82.3,
+   87.2,
+   91.7,
+   93.0,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/30117.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/30117/pg30117.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 79411,
+  "title": "Les chambres du plaisir",
+  "author": "Eugène Marsan",
+  "score": 34.56,
+  "words": 38769,
+  "coverage": [
+   74.9,
+   79.3,
+   85.8,
+   91.6,
+   92.7,
+   94.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/79411.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/79411/pg79411.cover.medium.jpg",
+  "genre": "20th century",
+  "adult": true,
+  "level": "A2"
+ },
+ {
+  "id": 53536,
+  "title": "A travers l'Exposition: Promenades de deux enfants au Champ-de-Mars et à l'espla",
+  "author": "É. (Élodie) Lamarque",
+  "score": 33.12,
+  "words": 8398,
+  "coverage": [
+   77.5,
+   81.3,
+   87.7,
+   93.2,
+   94.4,
+   95.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/53536.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/53536/pg53536.cover.medium.jpg",
+  "genre": "Illustrateurs",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 32640,
+  "title": "Histoire du véritable Gribouille",
+  "author": "George Sand",
+  "score": 35.09,
+  "words": 19610,
+  "coverage": [
+   80.1,
+   83.1,
+   88.6,
+   93.5,
+   94.4,
+   95.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/32640.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/32640/pg32640.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 17930,
+  "title": "Le songe d'une nuit d'été",
+  "author": "William Shakespeare",
+  "score": 32.66,
+  "words": 21697,
+  "coverage": [
+   76.3,
+   79.9,
+   86.4,
+   92.7,
+   93.7,
+   94.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17930.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17930/pg17930.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 41769,
+  "title": "Corneille expliqué aux enfants",
+  "author": "Émile Faguet",
+  "score": 34.21,
+  "words": 33067,
+  "coverage": [
+   76.1,
+   79.8,
+   87.2,
+   93.8,
+   94.8,
+   95.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/41769.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/41769/pg41769.cover.medium.jpg",
+  "genre": "Category: Biographies",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 23954,
+  "title": "Fables et légendes du Japon",
+  "author": "Claudius Ferrand",
+  "score": 33.9,
+  "words": 22435,
+  "coverage": [
+   75.9,
+   79.4,
+   86.8,
+   92.7,
+   93.7,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/23954.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/23954/pg23954.cover.medium.jpg",
+  "genre": "Category: Mythology, Legends & Folklore",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 17098,
+  "title": "Riquet à la Houppe: Conte",
+  "author": "Charles Perrault",
+  "score": 32.67,
+  "words": 2232,
+  "coverage": [
+   80.8,
+   83.9,
+   90.4,
+   93.7,
+   94.4,
+   95.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17098.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17098/pg17098.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 14258,
+  "title": "Le Livre des Mères et des Enfants, Tome I",
+  "author": "Marceline Desbordes-Valmore",
+  "score": 33.06,
+  "words": 21347,
+  "coverage": [
+   77.2,
+   80.4,
+   87.1,
+   92.5,
+   93.8,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14258.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14258/pg14258.cover.medium.jpg",
+  "genre": "Category: Poetry",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 16021,
+  "title": "Cantique de Noël",
+  "author": "Charles Dickens",
+  "score": 34.34,
+  "words": 32462,
+  "coverage": [
+   78.0,
+   80.7,
+   87.4,
+   92.8,
+   94.0,
+   94.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/16021.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/16021/pg16021.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 11622,
+  "title": "Plus fort que Sherlock Holmès",
+  "author": "Mark Twain",
+  "score": 35.24,
+  "words": 35552,
+  "coverage": [
+   76.1,
+   79.4,
+   86.6,
+   92.5,
+   93.4,
+   94.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11622.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11622/pg11622.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 28604,
+  "title": "Entretien d'un père avec ses enfants",
+  "author": "Denis Diderot",
+  "score": 33.42,
+  "words": 8609,
+  "coverage": [
+   76.4,
+   80.3,
+   86.8,
+   92.1,
+   93.1,
+   93.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/28604.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/28604/pg28604.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 11495,
+  "title": "La Main Gauche",
+  "author": "Guy de Maupassant",
+  "score": 34.62,
+  "words": 33927,
+  "coverage": [
+   77.1,
+   80.2,
+   86.4,
+   91.9,
+   93.0,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11495.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11495/pg11495.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 51725,
+  "title": "Sanguines",
+  "author": "Pierre Louÿs",
+  "score": 34.94,
+  "words": 29684,
+  "coverage": [
+   75.8,
+   79.6,
+   85.9,
+   91.7,
+   92.8,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/51725.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/51725/pg51725.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "A2"
+ },
+ {
+  "id": 14069,
+  "title": "Contes pour les petits garçons",
+  "author": "Christoph von Schmid",
+  "score": 33.58,
+  "words": 4234,
+  "coverage": [
+   79.6,
+   82.5,
+   88.7,
+   93.1,
+   93.9,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14069.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14069/pg14069.cover.medium.jpg",
+  "genre": "Category: Short Stories",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 78069,
+  "title": "Deux générations",
+  "author": "Leo, graf Tolstoy",
+  "score": 35.59,
+  "words": 31775,
+  "coverage": [
+   76.2,
+   79.3,
+   85.5,
+   90.5,
+   91.6,
+   92.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78069.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78069/pg78069.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 78036,
+  "title": "Quand le rideau s'est baissé",
+  "author": "Pierre Mille",
+  "score": 35.87,
+  "words": 29511,
+  "coverage": [
+   75.5,
+   79.0,
+   85.8,
+   91.7,
+   92.8,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78036.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78036/pg78036.cover.medium.jpg",
+  "genre": "20th century",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 17494,
+  "title": "Les misérables Tome III: Marius",
+  "author": "Victor Hugo",
+  "score": 37.06,
+  "words": 84975,
+  "coverage": [
+   75.4,
+   78.5,
+   85.0,
+   90.8,
+   92.1,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17494.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17494/pg17494.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 800,
+  "title": "Le tour du monde en quatre-vingts jours",
+  "author": "Jules Verne",
+  "score": 36.96,
+  "words": 67412,
+  "coverage": [
+   73.9,
+   77.9,
+   85.2,
+   91.3,
+   92.5,
+   93.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/800.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/800/pg800.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 14790,
+  "title": "Contes du jour et de la nuit",
+  "author": "Guy de Maupassant",
+  "score": 35.46,
+  "words": 40804,
+  "coverage": [
+   76.2,
+   79.4,
+   85.9,
+   91.5,
+   92.7,
+   93.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14790.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14790/pg14790.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 10746,
+  "title": "Boule de Suif",
+  "author": "Guy de Maupassant",
+  "score": 37.65,
+  "words": 36027,
+  "coverage": [
+   75.5,
+   78.6,
+   85.1,
+   91.2,
+   92.3,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/10746.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/10746/pg10746.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 30211,
+  "title": "Au Pays des Moines (Noli me Tangere)",
+  "author": "José Rizal",
+  "score": 37.23,
+  "words": 148819,
+  "coverage": [
+   75.1,
+   78.4,
+   85.2,
+   90.8,
+   91.9,
+   92.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/30211.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/30211/pg30211.cover.medium.jpg",
+  "genre": "Category: Historical Novels",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 56668,
+  "title": "Une saison en enfer",
+  "author": "Arthur Rimbaud",
+  "score": 35.91,
+  "words": 7032,
+  "coverage": [
+   72.9,
+   76.8,
+   84.5,
+   91.9,
+   93.1,
+   94.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/56668.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/56668/pg56668.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 35969,
+  "title": "Les mille et une nuits: contes choisis",
+  "author": "佚名",
+  "score": 37.06,
+  "words": 141945,
+  "coverage": [
+   79.7,
+   82.5,
+   88.4,
+   93.2,
+   94.0,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/35969.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/35969/pg35969.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 17517,
+  "title": "L'Œuvre",
+  "author": "Émile Zola",
+  "score": 37.74,
+  "words": 130602,
+  "coverage": [
+   75.0,
+   78.6,
+   85.3,
+   91.8,
+   93.1,
+   94.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17517.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17517/pg17517.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 13771,
+  "title": "Aventures de Monsieur Pickwick, Vol. I",
+  "author": "Charles Dickens",
+  "score": 36.06,
+  "words": 151776,
+  "coverage": [
+   75.2,
+   78.5,
+   85.1,
+   91.4,
+   92.6,
+   93.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/13771.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/13771/pg13771.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 60720,
+  "title": "La Prisonnière (Sodome et Gomorrhe III)",
+  "author": "Marcel Proust",
+  "score": 36.62,
+  "words": 157530,
+  "coverage": [
+   79.6,
+   82.8,
+   88.7,
+   94.0,
+   94.9,
+   95.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/60720.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/60720/pg60720.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 52611,
+  "title": "Le diable amoureux",
+  "author": "Jacques Cazotte",
+  "score": 37.08,
+  "words": 40699,
+  "coverage": [
+   75.7,
+   79.4,
+   86.8,
+   92.9,
+   94.0,
+   94.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/52611.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/52611/pg52611.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 17950,
+  "title": "La guerre et la paix, Tome II",
+  "author": "Leo, graf Tolstoy",
+  "score": 37.26,
+  "words": 145984,
+  "coverage": [
+   76.5,
+   79.7,
+   87.1,
+   92.6,
+   93.6,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17950.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17950/pg17950.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 18367,
+  "title": "Contes, Tome I",
+  "author": "Madame d' (Marie-Catherine) Aulnoy",
+  "score": 36.61,
+  "words": 105275,
+  "coverage": [
+   79.1,
+   82.2,
+   88.3,
+   92.7,
+   93.8,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/18367.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/18367/pg18367.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 11049,
+  "title": "Eugénie Grandet",
+  "author": "Honoré de Balzac",
+  "score": 35.75,
+  "words": 62891,
+  "coverage": [
+   76.1,
+   79.6,
+   86.2,
+   92.0,
+   93.2,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11049.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11049/pg11049.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 13848,
+  "title": "Les diaboliques",
+  "author": "J. (Jules) Barbey d'Aurevilly",
+  "score": 36.62,
+  "words": 97138,
+  "coverage": [
+   78.1,
+   80.9,
+   86.9,
+   92.5,
+   93.7,
+   94.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/13848.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/13848/pg13848.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 51149,
+  "title": "Avec les Poilus: Maman la Soupe et son chat Ratu",
+  "author": "Marcel Mültzer",
+  "score": 35.88,
+  "words": 12368,
+  "coverage": [
+   76.2,
+   79.5,
+   85.5,
+   91.1,
+   92.4,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/51149.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/51149/pg51149.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 78041,
+  "title": "En pays lointain",
+  "author": "Jack London",
+  "score": 38.23,
+  "words": 50829,
+  "coverage": [
+   74.2,
+   77.6,
+   84.7,
+   91.1,
+   92.3,
+   93.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78041.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78041/pg78041.cover.medium.jpg",
+  "genre": "Translations into French",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78021,
+  "title": "L'imposture",
+  "author": "Georges Bernanos",
+  "score": 38.14,
+  "words": 79895,
+  "coverage": [
+   71.9,
+   75.5,
+   84.2,
+   91.9,
+   93.0,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78021.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78021/pg78021.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 4791,
+  "title": "Voyage au Centre de la Terre",
+  "author": "Jules Verne",
+  "score": 38.93,
+  "words": 66766,
+  "coverage": [
+   72.9,
+   76.6,
+   83.9,
+   91.0,
+   92.3,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/4791.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/4791/pg4791.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 76724,
+  "title": "La chasse au météore",
+  "author": "Jules Verne",
+  "score": 39.05,
+  "words": 68148,
+  "coverage": [
+   72.6,
+   76.6,
+   84.2,
+   91.6,
+   93.2,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76724.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76724/pg76724.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 29049,
+  "title": "Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe s",
+  "author": "Roger de Rabutin, comte de Bussy",
+  "score": 38.17,
+  "words": 125051,
+  "coverage": [
+   77.3,
+   79.9,
+   85.1,
+   90.1,
+   91.0,
+   91.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/29049.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/29049/pg29049.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "B2"
+ },
+ {
+  "id": 14155,
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "score": 38.64,
+  "words": 111209,
+  "coverage": [
+   74.7,
+   78.0,
+   84.6,
+   90.7,
+   92.0,
+   93.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14155.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14155/pg14155.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 4650,
+  "title": "Candide, ou l'optimisme",
+  "author": "Voltaire",
+  "score": 38.64,
+  "words": 33959,
+  "coverage": [
+   76.4,
+   79.6,
+   85.1,
+   91.5,
+   92.6,
+   93.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/4650.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/4650/pg4650.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 17519,
+  "title": "Les misérables Tome V: Jean Valjean",
+  "author": "Victor Hugo",
+  "score": 37.95,
+  "words": 103978,
+  "coverage": [
+   74.9,
+   77.9,
+   84.5,
+   91.0,
+   92.6,
+   93.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17519.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17519/pg17519.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 17518,
+  "title": "Les misérables Tome IV: L'idylle rue Plumet et l'épopée rue Saint-Denis",
+  "author": "Victor Hugo",
+  "score": 38.33,
+  "words": 120205,
+  "coverage": [
+   74.7,
+   77.8,
+   84.6,
+   91.1,
+   92.6,
+   93.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17518.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17518/pg17518.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 17493,
+  "title": "Les misérables Tome II: Cosette",
+  "author": "Victor Hugo",
+  "score": 39.03,
+  "words": 95859,
+  "coverage": [
+   74.7,
+   77.7,
+   84.3,
+   90.6,
+   92.0,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/17493.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/17493/pg17493.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 5711,
+  "title": "Germinal",
+  "author": "Émile Zola",
+  "score": 38.42,
+  "words": 164600,
+  "coverage": [
+   74.3,
+   77.7,
+   84.7,
+   91.4,
+   92.8,
+   93.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/5711.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/5711/pg5711.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 24850,
+  "title": "Lourdes",
+  "author": "Émile Zola",
+  "score": 38.34,
+  "words": 173930,
+  "coverage": [
+   75.1,
+   78.1,
+   85.5,
+   92.0,
+   93.3,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/24850.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/24850/pg24850.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 2998,
+  "title": "A l'ombre des jeunes filles en fleurs — Première partie",
+  "author": "Marcel Proust",
+  "score": 38.02,
+  "words": 68010,
+  "coverage": [
+   79.5,
+   82.7,
+   88.7,
+   94.1,
+   94.9,
+   95.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2998.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2998/pg2998.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 796,
+  "title": "La Chartreuse De Parme",
+  "author": "Stendhal",
+  "score": 38.16,
+  "words": 181447,
+  "coverage": [
+   77.2,
+   80.6,
+   87.1,
+   92.6,
+   94.1,
+   94.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/796.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/796/pg796.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 27644,
+  "title": "Au bord du lac: L'Esclave, le Serf, le Chevrier de Lorraine, l'Apprenti",
+  "author": "Émile Souvestre",
+  "score": 37.91,
+  "words": 55049,
+  "coverage": [
+   74.9,
+   78.6,
+   85.6,
+   91.5,
+   92.7,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/27644.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/27644/pg27644.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 36528,
+  "title": "Monsieur Vénus",
+  "author": "Rachilde",
+  "score": 38.95,
+  "words": 41129,
+  "coverage": [
+   73.3,
+   77.0,
+   83.9,
+   90.3,
+   91.7,
+   93.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/36528.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/36528/pg36528.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "B2"
+ },
+ {
+  "id": 39738,
+  "title": "Lélia",
+  "author": "George Sand",
+  "score": 39.57,
+  "words": 154914,
+  "coverage": [
+   74.1,
+   77.5,
+   85.1,
+   92.4,
+   93.7,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/39738.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/39738/pg39738.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 45058,
+  "title": "Les tribulations d'un chinois en Chine",
+  "author": "Jules Verne",
+  "score": 38.42,
+  "words": 58304,
+  "coverage": [
+   73.5,
+   77.2,
+   84.3,
+   91.2,
+   92.6,
+   93.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/45058.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/45058/pg45058.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 2650,
+  "title": "Du côté de chez Swann",
+  "author": "Marcel Proust",
+  "score": 39.86,
+  "words": 166638,
+  "coverage": [
+   79.7,
+   82.7,
+   88.7,
+   93.9,
+   94.8,
+   95.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2650.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2650/pg2650.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 28718,
+  "title": "Les crimes de l'amour: Précédé d'un avant-propos, suivi des idées sur les romans",
+  "author": "marquis de Sade",
+  "score": 41.67,
+  "words": 47874,
+  "coverage": [
+   73.8,
+   77.8,
+   85.3,
+   92.2,
+   93.2,
+   94.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/28718.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/28718/pg28718.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "C1"
+ },
+ {
+  "id": 14287,
+  "title": "L'île mystérieuse",
+  "author": "Jules Verne",
+  "score": 39.73,
+  "words": 194130,
+  "coverage": [
+   73.3,
+   77.0,
+   84.5,
+   91.1,
+   92.4,
+   93.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14287.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14287/pg14287.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 5097,
+  "title": "Vingt mille Lieues Sous Les Mers — Complete",
+  "author": "Jules Verne",
+  "score": 42.52,
+  "words": 138264,
+  "coverage": [
+   71.2,
+   74.8,
+   82.7,
+   89.8,
+   91.3,
+   92.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/5097.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/5097/pg5097.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 19657,
+  "title": "Notre-Dame de Paris",
+  "author": "Victor Hugo",
+  "score": 41.04,
+  "words": 172477,
+  "coverage": [
+   73.1,
+   76.5,
+   83.1,
+   89.7,
+   91.0,
+   92.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/19657.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/19657/pg19657.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 56327,
+  "title": "Fables de La Fontaine",
+  "author": "Jean de La Fontaine",
+  "score": 40.66,
+  "words": 80458,
+  "coverage": [
+   73.6,
+   77.2,
+   83.8,
+   89.8,
+   91.0,
+   92.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/56327.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/56327/pg56327.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 29844,
+  "title": "Les contemplations: Aujourd'hui, 1843-1856",
+  "author": "Victor Hugo",
+  "score": 43.58,
+  "words": 47036,
+  "coverage": [
+   71.2,
+   74.2,
+   82.3,
+   90.4,
+   92.3,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/29844.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/29844/pg29844.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 14609,
+  "title": "Théologie hindoue. Le Kama soutra.",
+  "author": "Vatsyayana",
+  "score": 43.3,
+  "words": 96676,
+  "coverage": [
+   71.8,
+   75.9,
+   82.9,
+   90.3,
+   91.9,
+   93.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14609.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14609/pg14609.cover.medium.jpg",
+  "genre": "Category: History - Ancient",
+  "adult": true,
+  "level": "C1"
+ },
+ {
+  "id": 5423,
+  "title": "L'homme Qui Rit",
+  "author": "Victor Hugo",
+  "score": 41.99,
+  "words": 195256,
+  "coverage": [
+   72.0,
+   75.2,
+   82.0,
+   89.2,
+   90.9,
+   92.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/5423.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/5423/pg5423.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 50398,
+  "title": "Aventures de Baron de Münchausen",
+  "author": "Rudolf Erich Raspe",
+  "score": 42.63,
+  "words": 27394,
+  "coverage": [
+   75.2,
+   78.5,
+   85.3,
+   91.6,
+   92.6,
+   93.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/50398.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/50398/pg50398.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 35103,
+  "title": "Le Vingtième Siècle: La Vie Électrique",
+  "author": "Albert Robida",
+  "score": 40.86,
+  "words": 54895,
+  "coverage": [
+   72.3,
+   76.4,
+   83.7,
+   91.6,
+   93.2,
+   94.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/35103.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/35103/pg35103.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 46111,
+  "title": "Autour de la lune",
+  "author": "Jules Verne",
+  "score": 43.29,
+  "words": 55740,
+  "coverage": [
+   69.3,
+   73.3,
+   81.8,
+   90.0,
+   91.7,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/46111.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/46111/pg46111.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 20761,
+  "title": "Histoires extraordinaires",
+  "author": "Edgar Allan Poe",
+  "score": 41.9,
+  "words": 117916,
+  "coverage": [
+   73.3,
+   76.8,
+   84.4,
+   91.7,
+   93.1,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/20761.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/20761/pg20761.cover.medium.jpg",
+  "genre": "Category: Crime, Thrillers and Mystery",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 42256,
+  "title": "Le roman de Tristan et Iseut",
+  "author": "Joseph Bédier",
+  "score": 40.95,
+  "words": 41078,
+  "coverage": [
+   74.2,
+   77.5,
+   83.7,
+   89.5,
+   90.8,
+   92.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/42256.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/42256/pg42256.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 79320,
+  "title": "L'abbé Jules",
+  "author": "Octave Mirbeau",
+  "score": 39.85,
+  "words": 72099,
+  "coverage": [
+   72.7,
+   76.0,
+   83.5,
+   90.0,
+   91.4,
+   92.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/79320.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/79320/pg79320.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": true,
+  "level": "C1"
+ },
+ {
+  "id": 79438,
+  "title": "Les morts qui parlent",
+  "author": "Eugène-Melchior, vicomte de Vogüé",
+  "score": 42.42,
+  "words": 100107,
+  "coverage": [
+   71.9,
+   75.5,
+   83.0,
+   90.7,
+   92.1,
+   93.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/79438.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/79438/pg79438.cover.medium.jpg",
+  "genre": "19th century",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 14163,
+  "title": "Les enfants du capitaine Grant",
+  "author": "Jules Verne",
+  "score": 42.05,
+  "words": 192012,
+  "coverage": [
+   71.4,
+   75.2,
+   82.5,
+   89.7,
+   91.5,
+   92.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14163.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14163/pg14163.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 18112,
+  "title": "Moll Flanders",
+  "author": "Daniel Defoe",
+  "score": 42.58,
+  "words": 115721,
+  "coverage": [
+   81.5,
+   84.6,
+   89.8,
+   94.3,
+   94.9,
+   95.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/18112.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/18112/pg18112.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78059,
+  "title": "L'homme tout nu",
+  "author": "Catulle Mendès",
+  "score": 44.17,
+  "words": 50347,
+  "coverage": [
+   72.8,
+   76.2,
+   83.3,
+   89.3,
+   90.9,
+   92.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78059.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78059/pg78059.cover.medium.jpg",
+  "genre": "19th century",
+  "adult": true,
+  "level": "C2"
+ },
+ {
+  "id": 38674,
+  "title": "De la terre à la lune, trajet direct en 97 heures 20 minutes",
+  "author": "Jules Verne",
+  "score": 43.63,
+  "words": 53693,
+  "coverage": [
+   69.6,
+   73.9,
+   82.4,
+   90.3,
+   91.7,
+   93.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/38674.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/38674/pg38674.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 6099,
+  "title": "Les Fleurs du Mal",
+  "author": "Charles Baudelaire",
+  "score": 52.51,
+  "words": 24666,
+  "coverage": [
+   67.0,
+   70.9,
+   79.5,
+   88.6,
+   90.5,
+   92.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/6099.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/6099/pg6099.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 52927,
+  "title": "L'Odyssée",
+  "author": "Homer",
+  "score": 45.12,
+  "words": 59636,
+  "coverage": [
+   71.5,
+   75.9,
+   83.1,
+   90.3,
+   91.7,
+   92.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/52927.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/52927/pg52927.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 16816,
+  "title": "Le roman de la rose - Tome I",
+  "author": "de Lorris Guillaume",
+  "score": 56.08,
+  "words": 93884,
+  "coverage": [
+   67.7,
+   71.1,
+   76.8,
+   82.0,
+   83.3,
+   84.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/16816.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/16816/pg16816.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 44877,
+  "title": "L'escole des filles: réimpression complète du texte original sur la contrefaçon ",
+  "author": "Michel, active 1655 Millot",
+  "score": 44.66,
+  "words": 38764,
+  "coverage": [
+   74.9,
+   77.9,
+   82.6,
+   86.8,
+   87.5,
+   88.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/44877.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/44877/pg44877.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "C2"
+ },
+ {
+  "id": 71062,
+  "title": "Charmes",
+  "author": "Paul Valéry",
+  "score": 48.45,
+  "words": 10142,
+  "coverage": [
+   64.8,
+   69.2,
+   79.8,
+   89.5,
+   91.2,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/71062.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/71062/pg71062.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 55569,
+  "title": "Calligrammes: Poèmes de la paix et de la guerre (1913-1916)",
+  "author": "Guillaume Apollinaire",
+  "score": 65.5,
+  "words": 17290,
+  "coverage": [
+   71.6,
+   75.3,
+   82.3,
+   89.1,
+   90.7,
+   92.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/55569.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/55569/pg55569.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 61565,
+  "title": "L'Oeuvre Poètique de Charles Baudelaire: Les Fleurs du Mal",
+  "author": "Charles Baudelaire",
+  "score": 51.29,
+  "words": 43114,
+  "coverage": [
+   66.6,
+   70.5,
+   78.7,
+   87.5,
+   89.4,
+   91.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/61565.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/61565/pg61565.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 29302,
+  "title": "Poésies complètes,: avec préface de Paul Verlaine et notes de l'éditeur",
+  "author": "Arthur Rimbaud",
+  "score": 45.98,
+  "words": 16961,
+  "coverage": [
+   69.1,
+   72.8,
+   80.2,
+   88.0,
+   89.9,
+   91.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/29302.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/29302/pg29302.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 54819,
+  "title": "Les Contes; ou, Les nouvelles récréations et joyeux devis",
+  "author": "Bonaventure Des Périers",
+  "score": 44.97,
+  "words": 108775,
+  "coverage": [
+   74.9,
+   77.8,
+   82.8,
+   87.4,
+   88.4,
+   89.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/54819.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/54819/pg54819.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 56149,
+  "title": "A rebours",
+  "author": "J.-K. (Joris-Karl) Huysmans",
+  "score": 62.81,
+  "words": 69935,
+  "coverage": [
+   67.4,
+   71.2,
+   78.6,
+   87.0,
+   89.1,
+   90.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/56149.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/56149/pg56149.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 51338,
+  "title": "L'autre monde; ou, Histoire comique des Etats et Empires de la Lune",
+  "author": "Cyrano de Bergerac",
+  "score": 44.61,
+  "words": 45786,
+  "coverage": [
+   77.4,
+   80.7,
+   87.2,
+   92.6,
+   93.6,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/51338.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/51338/pg51338.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 24915,
+  "title": "Voyages et Aventures Surprenantes de Robinson Crusoé",
+  "author": "Daniel Defoe",
+  "score": 56.08,
+  "words": 5288,
+  "coverage": [
+   73.1,
+   76.6,
+   81.9,
+   87.2,
+   88.4,
+   89.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/24915.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/24915/pg24915.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 61270,
+  "title": "Poussières de Paris",
+  "author": "Jean Lorrain",
+  "score": 46.81,
+  "words": 106187,
+  "coverage": [
+   71.1,
+   74.5,
+   81.1,
+   88.5,
+   90.3,
+   92.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/61270.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/61270/pg61270.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 71059,
+  "title": "Constantinople",
+  "author": "Théophile Gautier",
+  "score": 59.26,
+  "words": 101325,
+  "coverage": [
+   68.6,
+   72.2,
+   79.2,
+   87.6,
+   89.6,
+   91.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/71059.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/71059/pg71059.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 14343,
+  "title": "Poésies de Charles d'Orléans",
+  "author": "d'Orléans Charles",
+  "score": 70.65,
+  "words": 86071,
+  "coverage": [
+   61.7,
+   63.7,
+   68.6,
+   71.6,
+   72.5,
+   73.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/14343.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/14343/pg14343.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 26804,
+  "title": "L'Anti-Justine; ou, Les Delices de l'amour",
+  "author": "Restif de La Bretonne",
+  "score": 48.32,
+  "words": 110007,
+  "coverage": [
+   71.8,
+   74.0,
+   78.3,
+   83.4,
+   84.5,
+   85.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/26804.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/26804/pg26804.cover.medium.jpg",
+  "genre": "Category: French Literature",
+  "adult": true,
+  "level": "C2"
+ }
+]

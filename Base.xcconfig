@@ -1,0 +1,14 @@
+// Shared build settings for VReading.
+//
+// Do NOT put personal values (team ID, API keys) in this file.
+// Copy Local.xcconfig.example to Local.xcconfig and edit that instead —
+// Local.xcconfig is git-ignored and optional.
+
+PRODUCT_BUNDLE_IDENTIFIER = io.github.vreading.app
+DEVELOPMENT_TEAM =
+
+// Optional default key for the built-in AI features (DeepSeek, OpenAI-compatible).
+// Leave empty for open-source builds: users enter their own key in Settings → AI.
+DEEPSEEK_API_KEY =
+
+#include? "Local.xcconfig"

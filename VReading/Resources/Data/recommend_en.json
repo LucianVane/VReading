@@ -1,0 +1,2162 @@
+[
+ {
+  "id": 11,
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "score": 21.44,
+  "words": 26776,
+  "coverage": [
+   87.8,
+   91.5,
+   93.2,
+   95.4,
+   96.1,
+   96.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 1952,
+  "title": "The Yellow Wallpaper",
+  "author": "Charlotte Perkins Gilman",
+  "score": 23.04,
+  "words": 6173,
+  "coverage": [
+   87.5,
+   90.3,
+   92.3,
+   94.6,
+   95.6,
+   95.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1952.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1952/pg1952.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 55,
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank (Lyman Frank) Baum",
+  "score": 20.37,
+  "words": 39767,
+  "coverage": [
+   88.6,
+   92.4,
+   94.3,
+   95.9,
+   96.7,
+   96.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/55.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/55/pg55.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 2542,
+  "title": "A Doll's House : a play",
+  "author": "Henrik Ibsen",
+  "score": 14.51,
+  "words": 26839,
+  "coverage": [
+   89.6,
+   92.6,
+   94.3,
+   96.2,
+   97.0,
+   97.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2542.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2542/pg2542.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 844,
+  "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+  "author": "Oscar Wilde",
+  "score": 19.1,
+  "words": 20737,
+  "coverage": [
+   85.0,
+   89.1,
+   92.0,
+   94.8,
+   96.0,
+   96.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/844.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/844/pg844.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 78044,
+  "title": "Claribel",
+  "author": "Lucy Ellen Guernsey",
+  "score": 20.04,
+  "words": 28117,
+  "coverage": [
+   88.6,
+   91.6,
+   93.5,
+   95.4,
+   96.3,
+   96.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78044.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78044/pg78044.cover.medium.jpg",
+  "genre": "Juvenile fiction",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 78109,
+  "title": "Grateful Peter's new year's gift",
+  "author": "Ruth Lamb",
+  "score": 21.75,
+  "words": 10302,
+  "coverage": [
+   87.3,
+   91.1,
+   93.1,
+   95.0,
+   96.1,
+   96.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78109.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78109/pg78109.cover.medium.jpg",
+  "genre": "Juvenile fiction",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 78057,
+  "title": "The vidiot",
+  "author": "Ib Melchior",
+  "score": 23.11,
+  "words": 3492,
+  "coverage": [
+   82.0,
+   87.8,
+   90.9,
+   93.5,
+   95.0,
+   95.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78057.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78057/pg78057.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 78035,
+  "title": "The Old Lady flies",
+  "author": "Raoul Whitfield",
+  "score": 22.04,
+  "words": 5300,
+  "coverage": [
+   82.6,
+   89.0,
+   91.3,
+   94.0,
+   94.8,
+   94.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78035.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78035/pg78035.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 66446,
+  "title": "The Plymouth Express Affair",
+  "author": "Agatha Christie",
+  "score": 22.62,
+  "words": 4870,
+  "coverage": [
+   84.9,
+   88.9,
+   91.1,
+   93.7,
+   94.5,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/66446.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/66446/pg66446.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 67160,
+  "title": "The Hunter's Lodge Case",
+  "author": "Agatha Christie",
+  "score": 19.78,
+  "words": 4366,
+  "coverage": [
+   85.7,
+   90.0,
+   93.1,
+   95.2,
+   96.2,
+   96.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/67160.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/67160/pg67160.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 67098,
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. (Alan Alexander) Milne",
+  "score": 16.81,
+  "words": 23323,
+  "coverage": [
+   89.7,
+   92.8,
+   94.2,
+   96.0,
+   96.5,
+   96.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/67098.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/67098/pg67098.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 12,
+  "title": "Through the Looking-Glass",
+  "author": "Lewis Carroll",
+  "score": 21.37,
+  "words": 30153,
+  "coverage": [
+   86.9,
+   90.9,
+   92.7,
+   94.6,
+   95.4,
+   95.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/12.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/12/pg12.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 902,
+  "title": "The Happy Prince, and Other Tales",
+  "author": "Oscar Wilde",
+  "score": 22.41,
+  "words": 16460,
+  "coverage": [
+   87.0,
+   90.9,
+   92.8,
+   94.5,
+   95.3,
+   95.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/902.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/902/pg902.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 24375,
+  "title": "Wizard",
+  "author": "Laurence M. Janifer",
+  "score": 20.87,
+  "words": 7358,
+  "coverage": [
+   84.9,
+   89.7,
+   92.5,
+   94.6,
+   95.9,
+   95.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/24375.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/24375/pg24375.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 76857,
+  "title": "I, Mars",
+  "author": "Ray Bradbury",
+  "score": 21.96,
+  "words": 3059,
+  "coverage": [
+   83.7,
+   88.2,
+   90.5,
+   93.2,
+   95.0,
+   95.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76857.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76857/pg76857.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 76476,
+  "title": "Missing men",
+  "author": "Vincent Starrett",
+  "score": 20.36,
+  "words": 10219,
+  "coverage": [
+   86.6,
+   90.3,
+   92.6,
+   95.1,
+   96.1,
+   96.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76476.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76476/pg76476.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 76899,
+  "title": "The man who saved New York",
+  "author": "Ray Cummings",
+  "score": 22.28,
+  "words": 6137,
+  "coverage": [
+   84.5,
+   89.0,
+   91.3,
+   93.7,
+   94.9,
+   94.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76899.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76899/pg76899.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A1"
+ },
+ {
+  "id": 5200,
+  "title": "Metamorphosis",
+  "author": "Franz Kafka",
+  "score": 24.93,
+  "words": 22049,
+  "coverage": [
+   87.9,
+   92.0,
+   94.2,
+   96.2,
+   97.1,
+   97.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/5200.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/5200/pg5200.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 78024,
+  "title": "The woman of Andros",
+  "author": "Thornton Wilder",
+  "score": 25.73,
+  "words": 22182,
+  "coverage": [
+   83.7,
+   88.1,
+   91.1,
+   93.8,
+   95.1,
+   95.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78024.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78024/pg78024.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 78060,
+  "title": "A young man's story",
+  "author": "Sarah Doudney",
+  "score": 25.69,
+  "words": 5992,
+  "coverage": [
+   83.9,
+   88.6,
+   91.2,
+   94.0,
+   95.3,
+   95.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78060.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78060/pg78060.cover.medium.jpg",
+  "genre": "Juvenile fiction",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 78051,
+  "title": "Borrowed feathers",
+  "author": "Ruth Lamb",
+  "score": 24.85,
+  "words": 8500,
+  "coverage": [
+   84.4,
+   88.7,
+   91.7,
+   94.3,
+   95.3,
+   95.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78051.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78051/pg78051.cover.medium.jpg",
+  "genre": "Love stories",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 78045,
+  "title": "The happiness of Hazelbrook",
+  "author": "Charlotte Grace O'Brien",
+  "score": 23.78,
+  "words": 16522,
+  "coverage": [
+   85.6,
+   90.1,
+   92.7,
+   95.0,
+   96.0,
+   96.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78045.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78045/pg78045.cover.medium.jpg",
+  "genre": "Juvenile fiction",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 67173,
+  "title": "The Missing Will",
+  "author": "Agatha Christie",
+  "score": 24.4,
+  "words": 3260,
+  "coverage": [
+   82.1,
+   87.6,
+   90.7,
+   93.8,
+   95.1,
+   95.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/67173.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/67173/pg67173.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 12116,
+  "title": "Struwwelpeter: Merry Stories and Funny Pictures",
+  "author": "Heinrich Hoffmann",
+  "score": 24.62,
+  "words": 2418,
+  "coverage": [
+   86.2,
+   89.7,
+   91.5,
+   92.9,
+   94.3,
+   94.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/12116.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/12116/pg12116.cover.medium.jpg",
+  "genre": "Category: German Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 76411,
+  "title": "The last dragon",
+  "author": "Dan Totheroh",
+  "score": 25.91,
+  "words": 29307,
+  "coverage": [
+   82.9,
+   87.7,
+   90.8,
+   92.9,
+   93.9,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76411.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76411/pg76411.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 2781,
+  "title": "Just so stories",
+  "author": "Rudyard Kipling",
+  "score": 25.17,
+  "words": 29838,
+  "coverage": [
+   86.8,
+   89.8,
+   91.9,
+   93.3,
+   94.1,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2781.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2781/pg2781.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 19994,
+  "title": "The Aesop for Children: With pictures by Milo Winter",
+  "author": "Aesop",
+  "score": 23.78,
+  "words": 27379,
+  "coverage": [
+   85.0,
+   89.4,
+   92.2,
+   94.4,
+   95.6,
+   95.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/19994.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/19994/pg19994.cover.medium.jpg",
+  "genre": "Category: Mythology, Legends & Folklore",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 50603,
+  "title": "Minute Mysteries [Detectograms]",
+  "author": "H. A. (Harold Austin) Ripley",
+  "score": 24.44,
+  "words": 25304,
+  "coverage": [
+   83.3,
+   87.8,
+   90.6,
+   93.5,
+   94.8,
+   94.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/50603.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/50603/pg50603.cover.medium.jpg",
+  "genre": "Category: Crime, Thrillers and Mystery",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 11757,
+  "title": "The Velveteen Rabbit",
+  "author": "Margery Williams Bianco",
+  "score": 25.43,
+  "words": 3990,
+  "coverage": [
+   86.8,
+   89.9,
+   91.3,
+   92.8,
+   93.6,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/11757.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/11757/pg11757.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 76713,
+  "title": "Blue eyes and diamonds",
+  "author": "Lemuel De Bra",
+  "score": 23.69,
+  "words": 2327,
+  "coverage": [
+   85.1,
+   88.9,
+   90.5,
+   93.3,
+   94.6,
+   94.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76713.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76713/pg76713.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 19002,
+  "title": "Alice's Adventures Under Ground: Being a facsimile of the original Ms. book afte",
+  "author": "Lewis Carroll",
+  "score": 23.63,
+  "words": 15439,
+  "coverage": [
+   86.7,
+   90.6,
+   92.6,
+   94.8,
+   95.5,
+   95.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/19002.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/19002/pg19002.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 25823,
+  "title": "The Story of Leather",
+  "author": "Sara Ware Bassett",
+  "score": 25.56,
+  "words": 39979,
+  "coverage": [
+   82.7,
+   87.4,
+   90.6,
+   93.4,
+   94.7,
+   94.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/25823.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/25823/pg25823.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 157,
+  "title": "Daddy-Long-Legs",
+  "author": "Jean Webster",
+  "score": 25.03,
+  "words": 37670,
+  "coverage": [
+   84.2,
+   88.3,
+   91.1,
+   93.3,
+   94.5,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/157.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/157/pg157.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 57,
+  "title": "Aladdin and the Magic Lamp",
+  "author": "Unknown",
+  "score": 25.54,
+  "words": 5284,
+  "coverage": [
+   85.3,
+   89.8,
+   92.0,
+   94.2,
+   95.3,
+   95.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/57.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/57/pg57.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 49010,
+  "title": "Æsop's Fables: A Version for Young Readers",
+  "author": "Aesop",
+  "score": 25.78,
+  "words": 29342,
+  "coverage": [
+   85.0,
+   89.0,
+   91.7,
+   93.9,
+   95.1,
+   95.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/49010.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/49010/pg49010.cover.medium.jpg",
+  "genre": "Category: Mythology, Legends & Folklore",
+  "adult": false,
+  "level": "A2"
+ },
+ {
+  "id": 1342,
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "score": 26.44,
+  "words": 127864,
+  "coverage": [
+   83.2,
+   87.5,
+   91.3,
+   94.4,
+   95.7,
+   95.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1342.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 174,
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "score": 26.27,
+  "words": 79774,
+  "coverage": [
+   83.1,
+   87.1,
+   89.8,
+   92.7,
+   94.1,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/174.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 98,
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "score": 28.17,
+  "words": 137485,
+  "coverage": [
+   82.5,
+   87.0,
+   90.0,
+   92.9,
+   94.3,
+   94.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/98.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 64317,
+  "title": "The Great Gatsby",
+  "author": "F. Scott (Francis Scott) Fitzgerald",
+  "score": 27.39,
+  "words": 48684,
+  "coverage": [
+   83.2,
+   87.1,
+   89.6,
+   92.4,
+   93.8,
+   93.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/64317.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/64317/pg64317.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 1400,
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "score": 26.67,
+  "words": 186714,
+  "coverage": [
+   84.4,
+   88.3,
+   91.0,
+   93.6,
+   94.9,
+   94.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1400.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1400/pg1400.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 161,
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "score": 27.4,
+  "words": 120056,
+  "coverage": [
+   83.3,
+   87.8,
+   91.5,
+   94.5,
+   95.8,
+   95.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/161.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/161/pg161.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 244,
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "score": 27.7,
+  "words": 43764,
+  "coverage": [
+   82.3,
+   87.0,
+   90.0,
+   93.0,
+   94.3,
+   94.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/244.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/244/pg244.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 78118,
+  "title": "Barry Locke, half-back",
+  "author": "Ralph Henry Barbour",
+  "score": 26.44,
+  "words": 64787,
+  "coverage": [
+   82.0,
+   86.9,
+   89.6,
+   92.7,
+   93.9,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78118.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78118/pg78118.cover.medium.jpg",
+  "genre": "Juvenile fiction",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 120,
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "score": 27.22,
+  "words": 69090,
+  "coverage": [
+   83.4,
+   88.0,
+   90.5,
+   92.7,
+   93.8,
+   93.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/120.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/120/pg120.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 45,
+  "title": "Anne of Green Gables",
+  "author": "L. M. (Lucy Maud) Montgomery",
+  "score": 26.6,
+  "words": 103544,
+  "coverage": [
+   83.8,
+   87.7,
+   90.2,
+   92.7,
+   94.0,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/45.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/45/pg45.cover.medium.jpg",
+  "genre": "Canada",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 46,
+  "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+  "author": "Charles Dickens",
+  "score": 28.34,
+  "words": 28850,
+  "coverage": [
+   82.1,
+   86.8,
+   89.5,
+   92.0,
+   93.6,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/46.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 58820,
+  "title": "Whose Body? A Lord Peter Wimsey Novel",
+  "author": "Dorothy L. (Dorothy Leigh) Sayers",
+  "score": 25.95,
+  "words": 59958,
+  "coverage": [
+   83.5,
+   87.4,
+   90.2,
+   92.8,
+   94.0,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/58820.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/58820/pg58820.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 59892,
+  "title": "Changeling, and Other Stories",
+  "author": "Donn Byrne",
+  "score": 27.28,
+  "words": 93891,
+  "coverage": [
+   82.7,
+   87.0,
+   89.7,
+   92.0,
+   93.3,
+   93.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/59892.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/59892/pg59892.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 78120,
+  "title": "The marvellous land of Snergs",
+  "author": "E. A. (Edward Augustine) Wyke-Smith",
+  "score": 26.66,
+  "words": 55415,
+  "coverage": [
+   83.9,
+   88.3,
+   91.0,
+   93.3,
+   94.6,
+   94.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78120.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78120/pg78120.cover.medium.jpg",
+  "genre": "Fantasy fiction",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 78083,
+  "title": "Fawn in the wood",
+  "author": "Unknown",
+  "score": 26.5,
+  "words": 2386,
+  "coverage": [
+   83.1,
+   87.6,
+   90.8,
+   93.4,
+   94.5,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78083.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78083/pg78083.cover.medium.jpg",
+  "genre": "Fairy tales",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 78108,
+  "title": "The bitter tea of General Yen",
+  "author": "Grace Zaring Stone",
+  "score": 26.78,
+  "words": 60762,
+  "coverage": [
+   82.9,
+   87.2,
+   90.1,
+   92.8,
+   94.4,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78108.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78108/pg78108.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 70175,
+  "title": "The secret of Father Brown",
+  "author": "G. K. (Gilbert Keith) Chesterton",
+  "score": 27.49,
+  "words": 63418,
+  "coverage": [
+   82.8,
+   87.7,
+   90.6,
+   93.5,
+   94.8,
+   94.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/70175.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/70175/pg70175.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 6133,
+  "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+  "author": "Maurice Leblanc",
+  "score": 27.96,
+  "words": 54726,
+  "coverage": [
+   80.9,
+   85.5,
+   89.1,
+   92.5,
+   93.9,
+   93.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/6133.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/6133/pg6133.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "B1"
+ },
+ {
+  "id": 43,
+  "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+  "author": "Robert Louis Stevenson",
+  "score": 29.85,
+  "words": 25787,
+  "coverage": [
+   82.4,
+   87.0,
+   89.8,
+   92.5,
+   94.2,
+   94.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/43.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 37106,
+  "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+  "author": "Louisa May Alcott",
+  "score": 29.61,
+  "words": 193991,
+  "coverage": [
+   83.1,
+   87.4,
+   90.1,
+   92.7,
+   94.0,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/37106.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/37106/pg37106.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 394,
+  "title": "Cranford",
+  "author": "Elizabeth Cleghorn Gaskell",
+  "score": 29.91,
+  "words": 72118,
+  "coverage": [
+   84.6,
+   88.8,
+   91.6,
+   93.9,
+   95.1,
+   95.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/394.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/394/pg394.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 74,
+  "title": "The Adventures of Tom Sawyer, Complete",
+  "author": "Mark Twain",
+  "score": 29.81,
+  "words": 72195,
+  "coverage": [
+   81.6,
+   86.0,
+   88.7,
+   91.4,
+   92.9,
+   92.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/74.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/74/pg74.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 76,
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "score": 29.41,
+  "words": 113369,
+  "coverage": [
+   85.1,
+   88.2,
+   89.9,
+   91.4,
+   92.1,
+   92.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/76.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/76/pg76.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 35,
+  "title": "The Time Machine",
+  "author": "H. G. (Herbert George) Wells",
+  "score": 31.16,
+  "words": 32772,
+  "coverage": [
+   80.2,
+   85.3,
+   88.5,
+   92.1,
+   93.8,
+   93.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/35.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/35/pg35.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 2465,
+  "title": "Carmen",
+  "author": "Prosper Mérimée",
+  "score": 28.59,
+  "words": 24126,
+  "coverage": [
+   83.1,
+   87.0,
+   89.7,
+   92.1,
+   93.2,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2465.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2465/pg2465.cover.medium.jpg",
+  "genre": "Category: Crime, Thrillers and Mystery",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 1695,
+  "title": "The Man Who Was Thursday: A Nightmare",
+  "author": "G. K. (Gilbert Keith) Chesterton",
+  "score": 29.24,
+  "words": 58584,
+  "coverage": [
+   82.1,
+   86.3,
+   89.3,
+   92.3,
+   94.0,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1695.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1695/pg1695.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78102,
+  "title": "The wheel of earth",
+  "author": "Helga Sandburg",
+  "score": 28.46,
+  "words": 113847,
+  "coverage": [
+   80.5,
+   85.3,
+   88.1,
+   90.6,
+   92.2,
+   92.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78102.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78102/pg78102.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 204,
+  "title": "The innocence of Father Brown",
+  "author": "G. K. (Gilbert Keith) Chesterton",
+  "score": 29.73,
+  "words": 79547,
+  "coverage": [
+   82.1,
+   86.6,
+   89.4,
+   92.6,
+   94.1,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/204.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/204/pg204.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78105,
+  "title": "Tales grotesque and curious",
+  "author": "Ryūnosuke Akutagawa",
+  "score": 31.12,
+  "words": 32447,
+  "coverage": [
+   81.5,
+   86.6,
+   89.2,
+   92.1,
+   93.6,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78105.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78105/pg78105.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78028,
+  "title": "The loot of the Lazy A",
+  "author": "W. C. (Wilbur C.) Tuttle",
+  "score": 29.4,
+  "words": 34768,
+  "coverage": [
+   81.6,
+   85.7,
+   87.9,
+   90.3,
+   91.5,
+   91.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78028.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78028/pg78028.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78103,
+  "title": "The trouble at Pinelands",
+  "author": "Ernest M. Poate",
+  "score": 30.0,
+  "words": 75195,
+  "coverage": [
+   80.3,
+   85.0,
+   87.7,
+   90.7,
+   92.4,
+   92.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78103.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78103/pg78103.cover.medium.jpg",
+  "genre": "Detective and mystery stories",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78010,
+  "title": "The unknown seven",
+  "author": "Herman Landon",
+  "score": 28.92,
+  "words": 79349,
+  "coverage": [
+   80.2,
+   85.0,
+   88.6,
+   92.5,
+   94.2,
+   94.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78010.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78010/pg78010.cover.medium.jpg",
+  "genre": "Detective and mystery stories",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 78073,
+  "title": "The winner and new...",
+  "author": "Ib Melchior",
+  "score": 29.19,
+  "words": 1884,
+  "coverage": [
+   77.9,
+   83.3,
+   88.2,
+   91.3,
+   92.9,
+   92.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78073.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78073/pg78073.cover.medium.jpg",
+  "genre": "Science fiction",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 27827,
+  "title": "The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With P",
+  "author": "Vatsyayana",
+  "score": 30.18,
+  "words": 58655,
+  "coverage": [
+   80.1,
+   85.2,
+   89.8,
+   93.2,
+   94.4,
+   94.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/27827.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/27827/pg27827.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": true,
+  "level": "B2"
+ },
+ {
+  "id": 564,
+  "title": "The Mystery of Edwin Drood",
+  "author": "Charles Dickens",
+  "score": 28.96,
+  "words": 96997,
+  "coverage": [
+   81.1,
+   85.8,
+   89.1,
+   92.2,
+   93.7,
+   93.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/564.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/564/pg564.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 223,
+  "title": "The wisdom of Father Brown",
+  "author": "G. K. (Gilbert Keith) Chesterton",
+  "score": 30.36,
+  "words": 72451,
+  "coverage": [
+   81.5,
+   86.4,
+   89.7,
+   92.6,
+   94.1,
+   94.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/223.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/223/pg223.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "B2"
+ },
+ {
+  "id": 1727,
+  "title": "The Odyssey: Rendered into English prose for the use of those who cannot read th",
+  "author": "Homer",
+  "score": 31.35,
+  "words": 129664,
+  "coverage": [
+   84.8,
+   88.7,
+   91.5,
+   93.7,
+   94.9,
+   94.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1727.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 1260,
+  "title": "Jane Eyre: An Autobiography",
+  "author": "Charlotte Brontë",
+  "score": 32.41,
+  "words": 188599,
+  "coverage": [
+   80.7,
+   85.1,
+   88.1,
+   91.3,
+   93.0,
+   93.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1260.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 8492,
+  "title": "The King in Yellow",
+  "author": "Robert W. (Robert William) Chambers",
+  "score": 32.31,
+  "words": 72598,
+  "coverage": [
+   80.0,
+   84.9,
+   87.6,
+   90.6,
+   92.2,
+   92.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/8492.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/8492/pg8492.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 768,
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "score": 32.12,
+  "words": 117096,
+  "coverage": [
+   80.3,
+   84.7,
+   88.0,
+   91.2,
+   92.8,
+   92.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/768.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/768/pg768.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78087,
+  "title": "The black pearl",
+  "author": "Marie Lion",
+  "score": 34.95,
+  "words": 36857,
+  "coverage": [
+   77.5,
+   82.3,
+   86.0,
+   89.6,
+   91.4,
+   91.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78087.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78087/pg78087.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78040,
+  "title": "Kate Mulhall",
+  "author": "Ezra Meeker",
+  "score": 35.68,
+  "words": 77495,
+  "coverage": [
+   79.3,
+   84.6,
+   88.9,
+   92.2,
+   94.0,
+   94.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78040.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78040/pg78040.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78106,
+  "title": "Things near & far",
+  "author": "Arthur Machen",
+  "score": 34.88,
+  "words": 47080,
+  "coverage": [
+   80.7,
+   85.2,
+   88.7,
+   91.7,
+   93.4,
+   93.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78106.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78106/pg78106.cover.medium.jpg",
+  "genre": "Biography",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78127,
+  "title": "The golden journey of Mr. Paradyne",
+  "author": "William John Locke",
+  "score": 33.75,
+  "words": 9332,
+  "coverage": [
+   78.2,
+   83.1,
+   86.3,
+   89.9,
+   91.7,
+   91.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78127.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78127/pg78127.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78055,
+  "title": "The white rain came",
+  "author": "Sam, Jr. Merwin",
+  "score": 34.79,
+  "words": 16868,
+  "coverage": [
+   75.9,
+   82.2,
+   86.6,
+   90.3,
+   92.1,
+   92.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78055.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78055/pg78055.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 78116,
+  "title": "The bar act",
+  "author": "Bud La Mar",
+  "score": 33.97,
+  "words": 4939,
+  "coverage": [
+   76.9,
+   83.0,
+   86.7,
+   90.4,
+   92.3,
+   92.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78116.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78116/pg78116.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 1063,
+  "title": "The Cask of Amontillado",
+  "author": "Edgar Allan Poe",
+  "score": 31.64,
+  "words": 2349,
+  "coverage": [
+   77.1,
+   83.2,
+   86.6,
+   90.1,
+   91.7,
+   91.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1063.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1063/pg1063.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 219,
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "score": 31.83,
+  "words": 38774,
+  "coverage": [
+   80.0,
+   84.7,
+   87.8,
+   91.3,
+   93.1,
+   93.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/219.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/219/pg219.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 831,
+  "title": "Four Arthurian Romances",
+  "author": "de Troyes, active 12th century Chrétien",
+  "score": 31.4,
+  "words": 191249,
+  "coverage": [
+   81.1,
+   85.7,
+   89.3,
+   92.1,
+   93.6,
+   93.6
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/831.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/831/pg831.cover.medium.jpg",
+  "genre": "Arthurian Legends",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 393,
+  "title": "The Blue Lagoon: A Romance",
+  "author": "H. De Vere (Henry De Vere) Stacpoole",
+  "score": 32.81,
+  "words": 65388,
+  "coverage": [
+   80.5,
+   85.3,
+   88.1,
+   91.1,
+   92.8,
+   92.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/393.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/393/pg393.cover.medium.jpg",
+  "genre": "Category: Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 215,
+  "title": "The call of the wild",
+  "author": "Jack London",
+  "score": 35.71,
+  "words": 32195,
+  "coverage": [
+   78.4,
+   83.6,
+   86.9,
+   89.9,
+   91.7,
+   91.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/215.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/215/pg215.cover.medium.jpg",
+  "genre": "Adventure",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 468,
+  "title": "Manon Lescaut",
+  "author": "abbé Prévost",
+  "score": 33.06,
+  "words": 62507,
+  "coverage": [
+   79.8,
+   84.9,
+   88.9,
+   92.8,
+   94.5,
+   94.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/468.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/468/pg468.cover.medium.jpg",
+  "genre": "Category: Classics of Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 974,
+  "title": "The Secret Agent: A Simple Tale",
+  "author": "Joseph Conrad",
+  "score": 32.5,
+  "words": 91090,
+  "coverage": [
+   78.5,
+   83.7,
+   87.3,
+   91.2,
+   93.2,
+   93.2
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/974.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/974/pg974.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 36,
+  "title": "The war of the worlds",
+  "author": "H. G. (Herbert George) Wells",
+  "score": 33.24,
+  "words": 60627,
+  "coverage": [
+   79.3,
+   84.5,
+   87.4,
+   91.7,
+   93.5,
+   93.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/36.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/36/pg36.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "C1"
+ },
+ {
+  "id": 84,
+  "title": "Frankenstein; or, The modern Prometheus",
+  "author": "Mary Wollstonecraft Shelley",
+  "score": 36.99,
+  "words": 75232,
+  "coverage": [
+   77.1,
+   82.8,
+   87.1,
+   91.3,
+   93.4,
+   93.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/84.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 2701,
+  "title": "Moby Dick; Or, The Whale",
+  "author": "Herman Melville",
+  "score": 41.96,
+  "words": 216631,
+  "coverage": [
+   74.1,
+   80.5,
+   84.1,
+   87.6,
+   89.8,
+   89.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2701.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 1513,
+  "title": "Romeo and Juliet",
+  "author": "William Shakespeare",
+  "score": 36.71,
+  "words": 26122,
+  "coverage": [
+   76.8,
+   81.0,
+   83.7,
+   86.3,
+   89.5,
+   89.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/1513.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 16328,
+  "title": "Beowulf: An Anglo-Saxon Epic Poem",
+  "author": "佚名",
+  "score": 49.25,
+  "words": 40053,
+  "coverage": [
+   67.8,
+   73.8,
+   79.2,
+   82.9,
+   85.8,
+   85.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/16328.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/16328/pg16328.cover.medium.jpg",
+  "genre": "Category: British Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 2160,
+  "title": "The Expedition of Humphry Clinker",
+  "author": "T. (Tobias) Smollett",
+  "score": 48.39,
+  "words": 151409,
+  "coverage": [
+   77.2,
+   82.1,
+   85.9,
+   89.5,
+   91.4,
+   91.4
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/2160.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/2160/pg2160.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 6761,
+  "title": "The Adventures of Ferdinand Count Fathom — Complete",
+  "author": "T. (Tobias) Smollett",
+  "score": 52.63,
+  "words": 162432,
+  "coverage": [
+   73.3,
+   79.0,
+   83.8,
+   88.5,
+   90.9,
+   90.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/6761.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/6761/pg6761.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 4085,
+  "title": "The Adventures of Roderick Random",
+  "author": "T. (Tobias) Smollett",
+  "score": 45.09,
+  "words": 192170,
+  "coverage": [
+   77.5,
+   82.7,
+   86.7,
+   90.6,
+   92.3,
+   92.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/4085.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/4085/pg4085.cover.medium.jpg",
+  "genre": "Best Books Ever Listings",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 25344,
+  "title": "The Scarlet Letter",
+  "author": "Nathaniel Hawthorne",
+  "score": 42.83,
+  "words": 85246,
+  "coverage": [
+   74.8,
+   80.1,
+   84.2,
+   88.1,
+   90.9,
+   90.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/25344.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/25344/pg25344.cover.medium.jpg",
+  "genre": "Banned Books from Anne Haight's list",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 41,
+  "title": "The Legend of Sleepy Hollow",
+  "author": "Washington Irving",
+  "score": 49.13,
+  "words": 12343,
+  "coverage": [
+   74.3,
+   80.3,
+   84.4,
+   87.5,
+   89.5,
+   89.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/41.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/41/pg41.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 68283,
+  "title": "The call of Cthulhu",
+  "author": "H. P. (Howard Phillips) Lovecraft",
+  "score": 46.03,
+  "words": 12040,
+  "coverage": [
+   73.7,
+   79.3,
+   83.4,
+   87.4,
+   89.8,
+   89.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/68283.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/68283/pg68283.cover.medium.jpg",
+  "genre": "Category: American Literature",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78017,
+  "title": "The Swiss family Robinson",
+  "author": "Johann David Wyss",
+  "score": 36.91,
+  "words": 124773,
+  "coverage": [
+   78.8,
+   84.5,
+   88.5,
+   92.1,
+   93.7,
+   93.7
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78017.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78017/pg78017.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78005,
+  "title": "The Green Dolphin",
+  "author": "Sara Ware Bassett",
+  "score": 36.45,
+  "words": 64608,
+  "coverage": [
+   77.5,
+   81.8,
+   84.9,
+   87.9,
+   89.5,
+   89.5
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78005.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78005/pg78005.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78126,
+  "title": "The weird of the wanderer",
+  "author": "Frederick Rolfe",
+  "score": 43.81,
+  "words": 81679,
+  "coverage": [
+   72.7,
+   78.8,
+   83.3,
+   86.5,
+   89.1,
+   89.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78126.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78126/pg78126.cover.medium.jpg",
+  "genre": "Fantasy fiction",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78110,
+  "title": "Verses",
+  "author": "Violet Jacob",
+  "score": 42.68,
+  "words": 10216,
+  "coverage": [
+   76.1,
+   82.3,
+   85.2,
+   88.2,
+   90.3,
+   90.3
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78110.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78110/pg78110.cover.medium.jpg",
+  "genre": "Scottish authors",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78023,
+  "title": "Ash-Wednesday",
+  "author": "T. S. (Thomas Stearns) Eliot",
+  "score": 46.33,
+  "words": 1703,
+  "coverage": [
+   76.2,
+   82.4,
+   85.8,
+   88.1,
+   90.0,
+   90.0
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78023.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78023/pg78023.cover.medium.jpg",
+  "genre": "Poetry",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78088,
+  "title": "The hand of God",
+  "author": "Murray Leinster",
+  "score": 37.29,
+  "words": 5363,
+  "coverage": [
+   76.2,
+   80.7,
+   84.1,
+   87.1,
+   91.1,
+   91.1
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78088.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78088/pg78088.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78062,
+  "title": "The flower and the leaf",
+  "author": "佚名",
+  "score": 82.64,
+  "words": 5328,
+  "coverage": [
+   68.6,
+   71.3,
+   72.8,
+   73.9,
+   74.8,
+   74.8
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78062.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78062/pg78062.cover.medium.jpg",
+  "genre": "Middle English, 1100-1500",
+  "adult": false,
+  "level": "C2"
+ },
+ {
+  "id": 78086,
+  "title": "A municipal feud",
+  "author": "Ernest Haycox",
+  "score": 38.83,
+  "words": 7270,
+  "coverage": [
+   74.9,
+   79.7,
+   83.6,
+   86.9,
+   88.9,
+   88.9
+  ],
+  "epub": "https://www.gutenberg.org/ebooks/78086.epub3.images",
+  "cover": "https://www.gutenberg.org/cache/epub/78086/pg78086.cover.medium.jpg",
+  "genre": "Fiction",
+  "adult": false,
+  "level": "C2"
+ }
+]

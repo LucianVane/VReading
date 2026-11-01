@@ -1,0 +1,11 @@
+/*分级单词颜色*/
+span.level_word_CET4 { color: rgb(251, 152, 81); }
+span.level_word_CET6 { color: rgb(181, 148, 105); }
+span.level_word_KaoYan { color: rgb(0, 130, 153); }
+span.level_word_GRE { color: rgb(125, 122, 255); }
+span.level_word_IELTS { color: rgb(201, 29, 66); }
+span.level_word_TOEFL { color: rgb(71, 94, 209); }
+span.level_word_TEM4 { color: rgb(170, 54, 153); }
+span.level_word_TEM8 { color: rgb(252, 181, 131); }
+span.level_word_GAOZHONG { color: #43A184; }
+span.level_word_BEC { color: #A078B3; }
